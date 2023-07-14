@@ -1,6 +1,16 @@
-.010 - Välkommen
+.01 - Flygsäkerhet
 [%collapsible]
 ====
 [decimal,start=1]
 . link:./A1A3-Kapitel-1.0[Kapitel 1 - Flygsäkerhet]
+.. link:./A1A3-Kapitel-1.1[1.1 - Viktigt att tänka på]
+====
+
+.02 - Flygrummet
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-2.0[Kapitel 2 - Flygrummet]
+.. link:./A1A3-Kapitel-2.1[2.1 - Geomedvetenhet]
+.. link:./A1A3-Kapitel-2.2[2.2 - Information om luftrummet]
 ====

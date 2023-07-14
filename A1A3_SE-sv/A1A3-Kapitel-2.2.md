@@ -1,4 +1,5 @@
 ## 2.2 Tjänster som ger viktig information om luftrummet
+
 ### NOTAM – ett måste
 
 **NOTAM** står för “Notice To Airmen”, det vill säga meddelande till flygare på svenska. Det är en tjänst som löpande publicerar viktig information i syfte att uppmärksamma piloter på risker som kan påverka flygsäkerheten längs en rutt eller på en plats. NOTAM är till för alla typer av piloter och är ett måste även för dig som är drönarpilot i den öppna kategorin så att du kan ta hänsyn till eventuella varningar och flygförbudsområden när du planerar din rutt. NOTAM hittar du på Luftfartsverkets (LFV:s) webbplats https://aro.lfv.se/Links/Link/ViewLink?TorLinkId=161&type=AIS  
