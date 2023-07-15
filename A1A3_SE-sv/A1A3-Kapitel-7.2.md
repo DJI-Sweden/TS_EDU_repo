@@ -16,11 +16,13 @@ Figur 38 Skog
 
 ### Du kan behöva söka spridningstillstånd
 
-Om du trots allt ska sprida eller publicera material du filmat eller fotograferat under en flygning, exempelvis i sociala medier, på hemsidor eller liknande, kan du behöva ett **spridningstillstånd** utfärdat av Lantmäteriet https://www.lantmateriet.se/spridningstillstand/ eller Sjöfartsverket http://www.sjofartsverket.se/sv/Batliv/Sjokort/Copyright--nyttjanderatt/Spridningstillstand/. Om du av misstag skulle sprida material med känslig information, riskerar du straff. Bryter du mot lagen om skydd för geografisk information kan du få böter eller fängelse i upp till ett år. Tänk på att du inte kan lagra material som är konfidentiellt på molntjänster, eftersom företagen som äger dessa kan ha åtkomst till innehållet. Då klassas det som spridning.
+Om du ska sprida eller publicera material du filmat eller fotograferat under en flygning, exempelvis i sociala medier, på hemsidor eller liknande, kan du behöva ett **spridningstillstånd** utfärdat av Lantmäteriet https://www.lantmateriet.se/spridningstillstand/ eller Sjöfartsverket http://www.sjofartsverket.se/sv/Batliv/Sjokort/Copyright--nyttjanderatt/Spridningstillstand/. Om du av misstag skulle sprida material med känslig information, riskerar du straff. Bryter du mot lagen om skydd för geografisk information kan du få böter eller fängelse i upp till ett år. Tänk på att du inte kan lagra material som är konfidentiellt på molntjänster, eftersom företagen som äger dessa kan ha åtkomst till innehållet. Då klassas det som spridning.
 
 ### Vad får spridas utan tillstånd?
 
-Det är i regel inte tillåtet att sprida bilder eller filmer. Dock finns det speciella undantag. Generellt kan man säga att om horisonten inte finns med i bilden eller på filmen så kan möjligheten finnas att använda något av undantagen för spridning.
+Det är i regel inte tillåtet att sprida bilder eller filmer. Dock finns det speciella undantag.  
+Generellt kan man säga att om horisonten inte finns med i bilden eller på filmen så kan möjligheten finnas att använda något av undantagen för spridning.  
+[Undantag | Lantmäteriet (lantmateriet.se)](https://www.lantmateriet.se/sv/spridningstillstand/undantag/)
 
 Områden som du får avbilda för att sedan sprida utan tillstånd är offentliga platser, offentliga tillställningar, bostadsbyggnader, åkermark, golfbanor och byggarbetsplatser. Men glöm inte att förhålla dig till det som står i GDPR om personuppgiftsbehandling!
 

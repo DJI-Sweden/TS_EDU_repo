@@ -5,7 +5,8 @@ Vissa läkemedel kan ge en påverkan som liknar den som alkohol och narkotika ge
 ![Figur 11 Olika typer av piller](./A1A3_SE-sv/Figur_011.png)  
 Figur 11 Olika typer av piller
 
-Du ska inte flyga om din medicinering gör så att ditt uppträdande blir farligt eller riskfyllt. Det  gäller även receptbelagda mediciner. Exempel på vanliga biverkningar är minskad uppmärksamhet, längre reaktionstid och försämrad omdömesförmåga. Olika mediciner påverkar i olika faser – vissa enbart i början, andra konstant eller först när du slutar. Dessutom kan kombinationen av olika läkemedel eller kombinationen av läkemedel och alkohol förstärka eller påverka effekten.
+Du ska inte flyga om din medicinering gör så att ditt uppträdande blir farligt eller riskfyllt. Det gäller även receptbelagda mediciner. Exempel på vanliga biverkningar är minskad uppmärksamhet, längre reaktionstid och försämrad omdömesförmåga.  
+Olika mediciner påverkar i olika faser – vissa enbart i början, andra konstant eller först när du slutar. Dessutom kan kombinationen av olika läkemedel eller kombinationen av läkemedel och alkohol förstärka eller påverka effekten.
 
 | Att tänka på om du använder läkemedel |
 |---|

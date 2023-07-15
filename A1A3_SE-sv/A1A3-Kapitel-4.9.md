@@ -12,8 +12,17 @@ Automationen avlastar dig som pilot men du måste fortfarande vara insatt i flyg
 
 Manuella färdigheter försämras när de inte används (i form av din förmåga att framföra drönaren) vilket kan bidra till förlorad situationsmedvetenhet av rum och tid. Under till exempel en RTH landning tar automationen hänsyn till bl.a. bromssträckan vilket även du måste kunna göra under olika förhållanden när du landar drönaren manuellt. Utnyttja automationen när så är lämpligt men glöm inte att även flyga manuellt i tillräcklig omfattning så du inte tappar din flygförmåga.
 
-Beroende på hur avancerad din drönares automation är, kan det vara svårt att upptäcka fel i automationen. Mycket av automatiska funktioner sker i bakgrunden och synliggörs inte alltid. Det kan därför vara svårt att förstå logiken i automationens beteende, vilket kan göra det svårare för dig att förutse automationens nästa drag. Olika larmsignaler kan också uppmärksammas för sent om man inte är tillräckligt uppmärksam och närvarande i flygningen. God kunskap om din drönares olika automationsfunktioner är mycket viktig.
+Beroende på hur avancerad din drönares automation är, kan det vara svårt att upptäcka fel i automationen. Mycket av automatiska funktioner sker i bakgrunden och synliggörs inte alltid. Det kan därför vara svårt att förstå logiken i automationens beteende, vilket kan göra det svårare för dig att förutse automationens nästa drag.  
+Olika larmsignaler kan också uppmärksammas för sent om man inte är tillräckligt uppmärksam och närvarande i flygningen. God kunskap om din drönares olika automationsfunktioner är mycket viktig.
 
-Automationen kan bidra till en falsk känsla av trygghet. Att luta sig tillbaka och låta den oftast felfria automatiken ta över kan vara frestande. Håll dig uppdaterad om var din drönare är, vart den är på väg och vad som kan förväntas ske framöver. Tänk på att din uppmärksamhet och förmåga att kunna ”handflyga” är viktigt för att drönaren kan framföras säkert. Det är alltid också du som är ansvarig för att din drönare framförs på ett säkert sätt, inte automationen. Du som drönarpilot är därför en mycket viktig och nödvändig pusselbit i flygsäkerheten!
+Automationen kan bidra till en falsk känsla av trygghet. Att luta sig tillbaka och låta den oftast felfria automatiken ta över kan vara frestande. Håll dig uppdaterad om var din drönare är, vart den är på väg och vad som kan förväntas ske framöver. Tänk på att din uppmärksamhet och förmåga att kunna ”handflyga” är viktigt för att drönaren kan framföras säkert. Det är alltid också du som är ansvarig för att din drönare framförs på ett säkert sätt, inte automationen. Du som drönarpilot är därför en mycket viktig och nödvändig pusselbit i flygsäkerheten!!
+
+| Vad behöver jag vara extra uppmärksam på? |
+| - |
+* Tappa inte din flygförmåga – varva mellan manuell flygning och automationen
+* Håll dig väl förtrogen med din drönares olika automationsfunktioner (s.k. modes) - möjligheter och begränsningar
+* Lita inte blint på automationen – bevaka och följ upp under flygning. Ta över om du är tveksam!
+* Förbered dig mentalt på olika nödsituationer och hur du omhändertar dem på bästa sätt
+* Du är ansvarig för att drönaren framförs på ett säkert sätt, inte automationen!
 
 ![Transport Styrelsen](./images/Logga.png)

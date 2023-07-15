@@ -6,23 +6,24 @@ Om du ska flyga en drönare över 250 gram i den öppna kategorin oavsett underk
 
 ### Aldrig över – men bredvid
 
-I **underkategori A2** ingår i stort sett enbart C2-klassade drönare eller liknande hemmabyggen. Det är drönare som får väga max fyra kilo och som aldrig får flygas över vare sig ickemedverkande personer eller folksamlingar. Däremot får man flyga nära människor på ett horisontellt avstånd, antingen på 30 meters eller fem meters avstånd, om det så kallade
-**låghastighetsläget** är aktiverat.
+I **underkategori A2** ingår i stort sett enbart C2-klassade drönare. Det är drönare som får väga max fyra kilo och som aldrig får flygas över vare sig icke-medverkande personer eller folksamlingar. Däremot får man flyga nära människor på ett horisontellt avstånd, antingen på 30 meters eller fem meters avstånd, om det så kallade **låghastighetsläget** är aktiverat.
 
-Förutom områdena som du behöver känna till för att flyga drönare i underkategorierna A1 och A3, behöver du också kunna tillräckligt om meteorologi, din drönares prestanda och segregeringen av de område som överflygs. Det är viktigt med de kunskaperna, eftersom dessa drönare får flyga så nära människor trots att de har hög vikt i jämförelse med C0- och C1-klassade
-drönare.
+Förutom områdena som du behöver känna till för att flyga drönare i underkategorierna A1 och A3, behöver du också kunna tillräckligt om meteorologi, din drönares prestanda och segregeringen av de område som överflygs. Det är viktigt med de kunskaperna, eftersom dessa drönare får flyga så nära människor trots att de har hög vikt i jämförelse med C0- och C1-klassade drönare.
 
 ### De tyngsta drönarna i den öppna kategorin
 
-I **underkategori A3** ingår de tyngre drönartyperna i den öppna kategorin, alltså de som får lov att väga upp till och med 25 kilo. Det rör sig om alltifrån C2- till C4-klassade drönare eller hemmabyggen som uppfyller kraven. Det betyder alltså att C2-klassade drönare kan ingå i både underkategori A2 och A3. Men oavsett C-klassificering får du aldrig som fjärrpilot flyga någon drönare som ingår i underkategori A3 över eller i närheten av människor som inte medverkar i flygningen. Dessutom måste du hålla din drönare på minst
-150 meters avstånd från bostads-, affärs-, industri- eller rekreationsområden.
+I **underkategori A3** ingår de tyngre drönartyperna i den öppna kategorin, alltså de som får lov att väga upp till och med 25 kilo. Det rör sig om alltifrån C2- till C4-klassade drönare eller hemmabyggen som uppfyller kraven. Det betyder alltså att C2-klassade drönare kan ingå i både underkategori A2 och A3. Men oavsett C-klassificering får du aldrig som fjärrpilot flyga någon drönare som ingår i underkategori A3 över eller i närheten av människor som inte medverkar i flygningen. Dessutom måste du hålla din drönare på minst 150 meters avstånd från bostads-, affärs-, industri- eller rekreationsområden.
+
+Observera att det kan finnas områden där flygmöjligheterna för alla underkategorier är tydligt begränsade med anledning av hänsyn till människor, djur, miljö eller egendom. I de fall man är osäker är det viktigt att bedömningen sker utifrån gällande regler och sunt förnuft, och där har operatören ett stort ansvar.
+
+### Vad är ett rekreationsområde? 
+
+Det går inte att definiera exakt vad ett rekreationsområde (som nämns i UAS.OPEN.040) är, utan det är ett område som allmänheten har tillgång till för att utöva fritidsaktiviteter. Dessa områden behöver inte vara fasta utan kan vara tidsberoende och/eller säsongsberoende utifrån hur många människor som vistas eller antas vistas där. En strand kan till exempel betraktas som rekreationsområde under vissa tider på sommaren men inte under andra perioder. Bedömningen behöver därför göras utifrån situationen, och där har operatören ett stort ansvar.
 
 | Det här gäller för underkategorierna |
 |---|
-* **A1**: C0-klassade får flygas över icke-medverkande  
-människor, men aldrig över folksamlingar.  
-C1-klassade får inte flyga över folksamlingar och icke-  
-medverkande personer.
+* **A1**: C0-klassade får flygas över icke-medverkande människor, men aldrig över folksamlingar.  
+C1-klassade får inte flyga över folksamlingar och icke-medverkande personer.
 
 * **A2**: C2-klassade (om de inte är privatbyggda) under fyra kilo, får flygas på 30 meters horisontellt avstånd från människor (5 meter om låghastighetsläget är aktiverat) men aldrig över. Kräver kunskap om meteorologi, din drönares prestanda och segregeringen av de område som överflygs.
 

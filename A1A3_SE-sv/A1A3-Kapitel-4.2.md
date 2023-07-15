@@ -1,7 +1,6 @@
 ## 4.2 Flyg aldrig påverkad av alkohol
 
-Du får inte vara påverkad av alkohol eller andra berusningsmedel som försämrar förmågan och omdömet innan eller under dina flygningar. Den som blir påkommen kan få sitt
-drönarkort indraget.  
+Du får inte vara påverkad av alkohol eller andra berusningsmedel som försämrar förmågan och omdömet innan eller under dina flygningar. Den som blir påkommen kan få sitt drönarkort indraget.  
 Allt bruk av narkotikaklassade ämnen, såvida det inte är ordinerat av läkare, är olagligt och kan ge fängelsestraff.
 
 ![Figur 9 Ölburk och vinflaskor](./A1A3_SE-sv/Figur_009.png)  

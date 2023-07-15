@@ -6,8 +6,7 @@ Om du flyger en multirotor-drönare ska du först av allt kontrollera den medan 
 
 | Före start |
 |---|
-* **Gå igenom uppdrag**: vem är fjärrpilot och vilken roll har  
-eventuellt andra medverkande personer? Vad vill ni uppnå med flygningen?
+* **Gå igenom uppdrag**: vem är fjärrpilot och vilken roll har eventuellt andra medverkande personer? Vad vill ni uppnå med flygningen?
 * **Kontrollera drönarsystemet**: propellrar, batterinivåer, transportskydd, gimbal och eventuell kalibrering av kompass. Ställ in RTH och dess höjd om sådana funktionaliteter finns och kontrollera eventuella felmeddelanden.
 * **Området för flygning**: gör en riskanalys. Finns det master, träd, människor? Finns störningskällor som metall eller antenner? Vid flygning över vatten – stäng av sensorer. Du behöver också kunna säkerställa säkerhetsavstånd till människor och bebyggelse enligt vad som sägs i reglerna för just den klass du flyger. Du bör också tänka på om du behöver sätta upp avspärrningar, skyltar eller behöver ta hjälp av andra personer för att upprätthålla säkerheten.
 * **Startplats**: ha gott om plats runt omkring och starta från en slät och jämn yta.
@@ -33,7 +32,7 @@ Nödsituationer kan uppstå när du minst anar det och då gäller det att vara 
 Kompassen kan störas i områden med mycket **elektroniska störningar**, till exempel där det finns elledningar, antenner eller större metallföremål. Genom att då röra sig uppåt och låta drönaren stiga i höjd kan störningarna minska och drönaren hitta tillbaka till sin magnetiska riktning. Men kom ihåg att den trots detta inte får stiga över maxhöjden.
 
 * **Vad händer om motorn går sönder?**  
-Olika drönare har olika många motorer och reagerar därför också på olika sätt vid **motorhaveri**. Exempelvis är det troligare att en mindre drönare med färre motorer inte skulle klara av ett bortfall och därför krascha. Däremot skulle drönare med många motorer (sex stycken eller fler) eventuellt klara av att fortsätta flyga och landa säkert. En drönare med fasta vingar kan med hjälp av dem landa mjukare utan motorer vid haveri.  
+Olika drönare har olika många motorer och reagerar därför också på olika sätt vid **motorhaveri**. Exempelvis är det troligare att en mindre drönare med färre motorer inte skulle klara av ett bortfall och därför krascha. Däremot skulle drönare med många motorer (sex stycken eller fler) eventuellt klara av att fortsätta flyga och landa säkert. En drönare med fasta vingar kan med hjälp av dem landa mjukare utan motorer vid haveri.
 
 Vissa typer av drönare har autorotering som funktion vid motorhaveri. Det innebär att drönaren börjar rotera i stället för att falla rakt ner mot marken och på så sätt får den en mjukare landning. Det ger dessutom dig och andra i omgivningen mer tid till att ta skydd för den fallande drönaren. Ta därför reda på hur din drönare fungerar och vad den klarar av.
 
@@ -42,15 +41,16 @@ Figur 21 Kraschad drönare
 
 * **Isbildning och minusgrader kan leda till haveri**  
 
-Det kan bildas is på propellrarna. Då skapar de inte den lyftkraft de behöver för att genomföra en luftfartyget vertikalt flygning säkert, vilket i värsta fall kan leda till haveri. Vissa drönare har säkerhetsspärrar som går igång vid **isbildning**. De gör då en autolandning. Man kan inte styra drönarens sjunkhastighet, men däremot kan man styra dess flygväg och på så sätt undvika hinder.
+Det kan bildas is på propellrarna. Då skapar de inte den lyftkraft de behöver för att genomföra en säker flygning, vilket i värsta fall kan leda till haveri. Vissa drönare har säkerhetsspärrar som går igång vid **isbildning**. De gör då en autolandning. Man kan inte styra drönarens sjunkhastighet, men däremot kan man styra dess flygväg och på så sätt undvika hinder.
 
 * **Om radiosändaren tappar kontakten med drönaren**  
 
-Kontakten mellan radiosändare och drönare kan tappas. Om RTH aktiveras, är det viktigt att du ställt in en säker höjd för en **automatisk hemfärd**.  
-Dessutom är det viktigt att du gjort de inställningar för RTH och startposition som passar bäst för det specifika tillfället. Om drönaren exempelvis flyger över vatten och du själv befinner dig ombord på en båt som rör sig, kan det vara lämpligt att inte låta drönaren flyga tillbaka till startpositionen och på så sätt landa i vattnet. Då är det lämpligare att luftfartyget följer radiosändaren eller dig genom att du placerar ut nya startpositioner under flygningens gång. Detta kan vara bra att ha med i en checklista före flygningen så att du hela tiden är beredd på vad som sker vid aktivering av RTH.
+Kontakten mellan radiosändare och drönare kan tappas. Om RTH aktiveras, är det viktigt att du ställt in en säker höjd för en **automatisk hemfärd**. 
 
 ![Figur 22 Situation där handenheten har tappat kontakten med drönaren](./A1A3_SE-sv/Figur_022.png)  
 Figur 22 Situation där handenheten har tappat kontakten med drönaren
+
+Dessutom är det viktigt att du gjort de inställningar för RTH och startposition som passar bäst för det specifika tillfället. Om drönaren exempelvis flyger över vatten och du själv befinner dig ombord på en båt som rör sig, kan det vara lämpligt att inte låta drönaren flyga tillbaka till startpositionen och på så sätt landa i vattnet. Då är det lämpligare att luftfartyget följer radiosändaren eller dig genom att du placerar ut nya startpositioner under flygningens gång. Detta kan vara bra att ha med i en checklista före flygningen så att du hela tiden är beredd på vad som sker vid aktivering av RTH.
 
 * **Nyfikna fåglar i vägen**
 

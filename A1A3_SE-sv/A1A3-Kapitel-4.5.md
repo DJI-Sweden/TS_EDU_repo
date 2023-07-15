@@ -11,7 +11,7 @@ Figur 12 Person med glasögon
 
 ### Rörelser i periferin
 
-Periferiseendet gör att du kan uppfatta även det som ligger utanför fokus, alltså det som är oskarpt i ditt synfält. Genom periferseendet kan du uppfatta rörelser eller liknande, vilket gör att du kan upptäcka hinder eller faror som befinner sig utanför din fokuspunkt när du flyger.
+**Periferiseendet** gör att du kan uppfatta även det som ligger utanför fokus, alltså det som är oskarpt i ditt synfält. Genom periferseendet kan du uppfatta rörelser eller liknande, vilket gör att du kan upptäcka hinder eller faror som befinner sig utanför din fokuspunkt när du flyger.
 
 ### Vi ser sämre i mörker
 
@@ -31,8 +31,7 @@ I avsökningen måste du också träna in att regelbundet titta på själva drö
 
 | Vad behöver jag vara extra uppmärksam på? |
 |---|
-* Svep inte med blicken när du spanar efter andra  
-luftfartyg
+* Svep inte med blicken när du spanar efter andra luftfartyg
 * Fokusera blicken och flytta den systematiskt mellan olika delar av himlen
 * **Träna** på din skanningsteknik så att den blir riktigt bra
 * Kom ihåg – när ett annat luftfartyg dyker upp kan det gå väldigt fort och det är avgörande att få syn på det så tidigt som möjligt!
@@ -43,8 +42,7 @@ Ju mer erfarenhet du får av att flyga drönare, desto bättre **avsökningsför
 
 ### Tolka information fel
 
-Om du har dålig sikt eller är trött, ökar risken för att din hjärna tolkar information från verkligheten fel. Det kallas **synvillor** och de gör så att du bedömer situationer eller avstånd fel.  
-Ytterligare ett skäl att vara utvilad när du ska flyga!
+Om du har dålig sikt eller är trött, ökar risken för att din hjärna tolkar information från verkligheten fel. Det kallas **synvillor** och de gör så att du bedömer situationer eller avstånd fel. Ytterligare ett skäl att vara utvilad när du ska flyga!
 
 ### Olika former av färgblindhet
 
@@ -53,6 +51,7 @@ Den vanligaste formen av färgblindhet är ärftlig, ofta medfödd och kallas **
 ![Figur 13 Exempel på bild som används vid test av färgblindhet](./A1A3_SE-sv/Figur_013.png)  
 Figur 13 Exempel på bild som används vid test av färgblindhet
 
-En annan typ är **blå-gul färgblindhet**. Den gör inte att en person har – som det kanske kan låta – svårt att skilja på gult och blått utan i stället på de färger som befinner sig mellan blått och gult på färgskalan. Gult kan exempelvis uppfattas som rosa och blått som grönt. En tredje och väldigt sällsynt form av färgblindhet gör att man inte kan se några färger alls utan allt ses i **gråskalor**.
+En annan typ är **blå-gul färgblindhet**. Den gör inte att en person har – som det kanske kan låta – svårt att skilja på gult och blått utan i stället på de färger som befinner sig mellan blått och gult på färgskalan. Gult kan exempelvis uppfattas som rosa och blått som grönt.  
+En tredje och väldigt sällsynt form av färgblindhet gör att man inte kan se några färger alls utan allt ses i **gråskalor**.
 
 ![Transport Styrelsen](./images/Logga.png)  

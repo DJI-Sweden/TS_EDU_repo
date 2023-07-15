@@ -1,6 +1,7 @@
 ## 4.10 Riskmedvetenhet – en förmåga som kräver övning
 
 ### Vad kan påverka min riskmedvetenhet?
+
 Hur stor risk vi är beredda att utsätta oss och andra för påverkas av olika faktorer, till exempel vår upplevelse av egen kontroll över ett förlopp, drönaren eller omgivningen har stor betydelse för vårt risktagande. För dig som drönarpilot är det viktigt att tänka i termer av risker och känna till en del om vad som kan påverka din riskmedvetenhet och i slutändan dina beslut.
 
 I allmänhet har vi som individer en tendens att underskatta risker vars konsekvenser visar sig först längre fram, till exempel en till synes liten förändring i vädret som vindriktning vilket senare leder till stark motvind hem kan resultera i en lägre batterinivå än förväntat och begränsa dina valmöjligheter.

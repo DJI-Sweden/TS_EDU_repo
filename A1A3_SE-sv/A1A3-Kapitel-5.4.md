@@ -2,7 +2,7 @@
 
 ### Efter landning
 
-När du landat och stängt av strömmen till drönaren och övrig utrustning ska du – om du flugit i kontrollzon – meddela flygtrafikledningen att flygningen är genomförd. Du ska också fylla i loggbok eller på annat sätt se till att flygningen har registrerats. Om olyckor eller haveri inträffat under flygningen, måste du anmäla dem till Transportstyrelsen.
+När du landat och stängt av strömmen till drönaren och övrig utrustning ska du – om du flugit i kontrollzon och fått ett tillstånd från flygtrafikledningen – meddela flygtrafikledningen att flygningen är genomförd. Du ska också fylla i loggbok eller på annat sätt se till att flygningen har registrerats. Om olyckor eller haveri inträffat under flygningen, måste du anmäla dem till Transportstyrelsen.
 
 ### Kontrollera drönaren
 
@@ -11,7 +11,7 @@ Gör en **okulärbesiktning** och titta efter skador och onormalt slitage på oc
 ![Figur 25 Propeller med sprickor](./A1A3_SE-sv/Figur_025.png)  
 Figur 25 Propeller med sprickor
 
-Under “Checklistor” finner du ett exempel på en checklista för okulärbesiktning som du kan följa både före och efter flygning
+Under "Checklistor" finner du ett exempel på en checklista för okulärbesiktning som du kan följa både före och efter flygning.
 
 ### Batterier
 

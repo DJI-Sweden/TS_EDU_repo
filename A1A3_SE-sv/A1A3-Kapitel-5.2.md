@@ -27,7 +27,7 @@ Det är mycket viktigt att drönaren och utrustningen kontrolleras noggrant för
 
 Undersök i förväg hur området ser ut på karta eller satellitbild om du saknar lokalkännedom och kontrollera vad som gäller för området i NOTAM. Det du främst ska kontrollera är att du inte kommer att flyga nära djur och om det går att hålla avstånd till människor och åskådare. En bra tumregel är att undvika områden där det periodvis samlas folk, såsom parker, rekreationsområden, vissa tävlingar eller andra evenemang.
 
-Flyg inte över människor som inte medverkar i flygningen, i kontrollzon (CTR) eller R-områden (restriktionsområden) utan tillstånd eller utom regelverket. Om flygningen trots allt sker i en kontrollzon, måste du begära tillstånd via flygtrafikledningen. Du kan antingen ringa direkt till flygtrafikledningen eller mejla din förfrågan i förväg och bifoga karta, koordinater, flygradie, höjd, tider och telefonnummer som du ovillkorligen kan nås på under hela flygningen.
+Kontrollera alltid aktuell och temporär information i både AIP, AIP SUP och NOTAM för det område du avser flyga i. Flyg inte över människor som inte medverkar i flygningen, i kontrollzon (CTR) eller R-områden (restriktionsområden) utan tillstånd från flygtrafikledningen eller utom regelverket. Om flygningen trots allt sker i en kontrollzon, måste du begära tillstånd via flygtrafikledningen. Du kan antingen ringa direkt till flygtrafikledningen eller mejla din förfrågan i förväg och bifoga karta, koordinater, flygradie, höjd, tider och telefonnummer som du ovillkorligen kan nås på under hela flygningen. 
 
 ![Figur 18 Flygplan och flygledartorn](./A1A3_SE-sv/Figur_018.png)  
 Figur 18 Flygplan och flygledartorn
@@ -47,7 +47,7 @@ Undersök och välj ut alternativa landningsplatser om du skulle tvingas nödlan
 
 ### Kontrollera väder
 
-Kontrollera väderleken: temperatur, vind, dimma, molnighet. Och tänk på att minusgrader påverkar batterier negativt. Se till att hålla dem uppvärmda före start. Vid minusgrader krävs ofta extra kunskaper om batterierna – ta reda på hur just dina fungerar. I fuktigt väder och minusgrader kan det bildas is på propellrarna som innebär stor risk för haveri.
+Kontrollera väderleken: temperatur, vind, dimma, molnighet. Och tänk på att låg temperatur påverkar batterier negativt. Se till att hålla dem uppvärmda före start. Vid låg temperatur krävs ofta extra kunskaper om batterierna – ta reda på hur just dina fungerar. I fuktigt väder och låg temperatur kan det bildas is på propellrarna som innebär stor risk för haveri.
 
 Tänk på att vindhastigheten ofta ökar med höjden.
 

@@ -19,11 +19,9 @@ Figur 30 En drönare med fasta vingar och en multirotor
 
 Vingarna på den här typen av drönare kan göra så att ett motorhaveri slutar bättre. Till skillnad från en multirotor – som i värsta fall bara faller rak ner mot marken – kan dessa luftfartyg segla i luften av vingarna och på så sätt få en mjukare landning. Däremot kan den inte på samma sätt som en multirotor stå och hovra på ett och samma ställe i luften. Den kan inte heller lika lätt väja för eventuella hinder som plötsligt dyker upp.
 
-Kameran på drönare med fasta vingar sitter ofta helt fast eller i en tvåaxlad gimbal, riktad
-nedåt, vilket kan vara bra i de fall du vill övervaka eller kartlägga och mäta stora områden. Så är ditt syfte att filma eller fotografera kanske en multirotor med rörlig gimbal är bättre. Mer om det läser du längre ner.
+Kameran på drönare med fasta vingar sitter ofta helt fast eller i en tvåaxlad gimbal, riktad nedåt, vilket kan vara bra i de fall du vill övervaka eller kartlägga och mäta stora områden. Så är ditt syfte att filma eller fotografera kanske en multirotor med rörlig gimbal är bättre. Mer om det läser du längre ner.
 
-Värt att nämna är att det finns hybridvarianter där drönare med fasta vingar har fler än två
-propellrar.
+Värt att nämna är att det finns hybridvarianter där drönare med fasta vingar har fler än två propellrar.
 
 ![Figur 31 Hybridvariant](./A1A3_SE-sv/Figur_031.png)  
 Figur 31 Hybridvariant
@@ -39,11 +37,11 @@ Antennernas placering är extra viktig vid flygning på längre avstånd. Det ä
 
 ### Radiosändaren kommunicerar med drönaren via radiovågor med olika frekvenser
 
-Drönaren och den tillhörande radiosändaren är normalt sammanlänkade via radiolänk på 2,4 Ghz och 5,8 Ghz. Ju högre frekvensen är, desto mer data kan skickas med kort fördröjning men med kortare räckvidd till följd. En frekvens på 2,4 Ghz är tillräcklig för att inom laglig effektgräns på 125 mW sända styrning och HD-video (1080i) på avstånd upp till 4 km. Längre räckvidd kan uppnås med högre uteffekt och rätt vinklade antenner.
+Drönaren och den tillhörande radiosändaren är normalt sammanlänkade via radiolänk på 2,4 GHz och 5,8 GHz. Ju högre frekvensen är, desto mer data kan skickas med kort fördröjning men med kortare räckvidd till följd. En frekvens på 2,4 GHz är tillräcklig för att inom laglig effektgräns på 125 mW sända styrning och HD-video (1080i) på avstånd upp till 4 km. Längre räckvidd kan uppnås med högre uteffekt och rätt vinklade antenner.
 
-Ghz-bandet är känsligt för fysiska hinder och det är därför viktigt att säkerställa fri sikt mellan radiosändaren och drönaren. Det blir viktigare och känsligare vid längre avstånd.
+GHz-bandet är känsligt för fysiska hinder och det är därför viktigt att säkerställa fri sikt mellan radiosändaren och drönaren. Det blir viktigare och känsligare vid längre avstånd.
 
-Radiosändaren behöver inte kommunicera med drönaren via Ghz-frekvenser utan kan också i vissa fall göra det genom 4G-nät och en dator.
+Radiosändaren behöver inte kommunicera med drönaren via GHz-frekvenser utan kan också i vissa fall göra det genom 4G-nät och en dator.
 
 ### Identifiera drönaren från marken
 
@@ -62,13 +60,15 @@ Figur 33 Landskapsbild över flygplats med landningsbana och flygledartorn
 
 ### NOTAM – information om vad som sker i luftrummet
 
-NOTAM står för “notice to airmen”, det vill säga “meddelande till flygare” på svenska. Det är en tjänst som löpande publicerar viktig information om vad som sker i luftrummet. NOTAM är till för alla typer av piloter och är ett måste även för dig som är drönarpilot i den öppna kategorin så att du kan ta hänsyn till eventuella varningar och flygförbudsområden när du planerar din rutt.
+**NOTAM** står för “notice to airmen”, det vill säga “meddelande till flygare” på svenska. Det är en tjänst som löpande publicerar viktig information om vad som sker i luftrummet. NOTAM är till för alla typer av piloter och är ett måste även för dig som är drönarpilot i den öppna kategorin så att du kan ta hänsyn till eventuella varningar och flygförbudsområden när du planerar din rutt.
 
 NOTAM hittar du på Luftfartsverkets (LFV:s) webbplats. Om ett område är markerat längs din planerade rutt och du har svårt att tyda informationen, kan du när som helst dygnet runt ringa Flight Planning Centre (FPC) så förklarar de för dig vad den innebär. Du kan också ringa och berätta när och var du tänker flyga så kollar de NOTAM och AIP åt dig (se nedan) och du kan planera din rutt utifrån det.
 
 ### AIP – information för luftfarten
 
 **AIP** (aeronautical information publication) är en faktasamling med information för luftfarten, som du ska ta del av innan du börjar flygningen. De flesta länder har och ger ut en nationell AIP med information om förutsättningarna för att kunna flyga till, från eller över länders luftrum och flygplatser. I Sverige ges AIP ut av Luftfartsverket och du hittar den på deras webbplats.
+
+**AIP SUP** (aeronautical information publication supplement) innehåller information om tillfälliga förändringar i AIP av både långvarig och kortare karaktär. 
 
 ### RTH – drönaren flyger hem automatiskt
 
@@ -92,7 +92,7 @@ Figur 35 Kompass
 
 ### Håller kameran stabil
 
-En **gimbal** har till uppgift att motverka drönarens rörelser och vibrationer under flygning för en inbyggd eller externt monterad kamera. Resultatet blir en horisontellt rak bild utan skakningar. För att tekniken ska fungera är det viktigt attv arje axel som ska balanseras är i absolut balans. Drönare med fasta vingar har inte alltid gimbal men oftast en fast kamera riktad nedåt, beroende på syftet med flygningen.
+En **gimbal** har till uppgift att motverka drönarens rörelser och vibrationer under flygning för en inbyggd eller externt monterad kamera. Resultatet blir en horisontellt rak bild utan skakningar. För att tekniken ska fungera är det viktigt att varje axel som ska balanseras är i absolut balans. Drönare med fasta vingar har inte alltid gimbal men oftast en fast kamera riktad nedåt, beroende på syftet med flygningen.
 
 ![Figur 36 Kamera upphängd i gimbal](./A1A3_SE-sv/Figur_036.png)  
 Figur 36 Kamera upphängd i gimbal
@@ -117,7 +117,7 @@ Dessutom ska du som är fjärrpilot i god tid bli varnad om batterinivån börja
 
 ### Måste ha belysning
 
-För att förbättra drönarens synlighet vid flygningar i mörker, och särskilt för att göra det möjligt för en person på marken att enkelt skilja drönaren från bemannade luftfartyg, bör ett grönt blinkande ljus vara aktiverat.
+För att förbättra drönarens synlighet vid flygningar i mörker, och särskilt för att göra det möjligt för en person på marken att enkelt skilja drönaren från bemannade luftfartyg, måste den ha ett grönt blinkande ljus
 
 ![Figur 37 Drönare med belysning under flygning i mörker](./A1A3_SE-sv/Figur_037.png)  
 Figur 37 Drönare med belysning under flygning i mörker

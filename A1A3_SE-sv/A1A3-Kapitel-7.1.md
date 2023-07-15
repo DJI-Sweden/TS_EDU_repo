@@ -7,8 +7,7 @@ Mer information gällande dataskyddsförordningens grundläggande principer hitt
 
 Principerna innebär bland annat att den som är personuppgiftsansvarig måste försäkra sig om att det finns stöd i GDPR för att behandla personuppgifterna. Det är viktigt att tänka på att uppgifter bara får samlas in för specifika, särskilt angivna och berättigade ändamål. Man får inte behandla fler personuppgifter än vad som behövs för ändamålen. Personuppgifterna ska vara korrekta och raderas så snart de inte behövs längre. Personuppgifterna måste också skyddas så att inte obehöriga får tillgång till dem och så att de inte förloras eller förstörs.
 
-Datainspektionen (Integritetsskyddsmyndigheten efter 1 jan 2021) är den myndighet som har
-tillsynsansvar och granskar att GDPR följs.
+Datainspektionen (Integritetsskyddsmyndigheten efter 1 jan 2021) är den myndighet som har tillsynsansvar och granskar att GDPR följs.
 
 ### Vad som räknas som personuppgifter
 
