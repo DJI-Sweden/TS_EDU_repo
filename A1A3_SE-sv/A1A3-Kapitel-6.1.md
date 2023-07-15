@@ -2,7 +2,8 @@
 
 ## 6.1 Vad är en drönare?
 
-Drönare är en vardagligare benämning för det som mer korrekt kallas för **obemannade luftfartyg** eller **obemannade luftfartygssystem** – det vill säga luftfartyg som styrs antingen automatiskt, självständigt eller av fjärrpilot på distans. På engelska kallas det “unmanned aircraft vehicle” (UAV) eller “unmanned aerial system” (UAS), vars förkortningar ofta dyker upp även i Sverige.
+Drönare är en vardagligare benämning för det som mer korrekt kallas för **obemannade luftfartyg** eller **obemannade luftfartygssystem** – det vill säga luftfartyg som styrs antingen automatiskt, självständigt eller av fjärrpilot på distans. På engelska kallas det "unmanned aircraft vehicle" (UAV) eller “unmanned aerial system” (UAS), vars förkortningar ofta dyker
+upp även i Sverige.
 
 Drönare finns i alla möjliga storlekar och kan väga alltifrån något hundratal gram till flera tusentals kilo. De kan flygas i olika syften – privat, kommersiellt och polisiärt eller i annan offentlig verksamhet. De kan också se ut på olika sätt, till exempel som den vanligare helikopterliknande **multirotorn** eller **multikoptern**, eller som den mer flygplansliknande drönaren med **fasta vingar**.
 
