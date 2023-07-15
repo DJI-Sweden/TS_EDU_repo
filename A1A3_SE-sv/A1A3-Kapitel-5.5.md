@@ -1,6 +1,7 @@
 ## 5.5 Checklistor
 
-Ta för vana att gå igenom checklistor både före och efter flygning för att allt ska gå så smidigt och säkert som möjligt. Listorna kan se olika ut och du kan anpassa dem till din drönare. Nedan har vi tagit med exempel på hur de kan se ut.
+Ta för vana att gå igenom checklistor både före och efter flygning för att allt ska gå så smidigt och säkert som möjligt. Listorna kan se olika ut och du kan anpassa dem till din drönare.  
+Nedan har vi tagit med exempel på hur de kan se ut.
 
 ![Figur 26 Checklista i telefon](./A1A3_SE-sv/Figur_026.png)  
 Figur 26 Checklista i telefon
@@ -8,7 +9,7 @@ Figur 26 Checklista i telefon
 ### Okulärbesiktning
 
 1. Finns det några sprickbildningar i flygkroppen eller glapp i lederna kring de fällbara armarna och så vidare?
-2. Uppstår det ovanliga ljud från propellrarna om du snurrar dem med fingrarna?
+2. Uppstår det ovanliga ljud från propellrarna om du snurrar dem med fingrarna?  
 Knastrande ljud kan tyda på smuts i motorns kullager och ska inte ignoreras.
 3. Är skruvar, fästen, leder eller fastsättningar lösa eller skadade? Byt ut vid behov.
 4. Finns det några skador eller sprickor på propellrarna? Flyg aldrig med skadade propellrar.
@@ -18,8 +19,7 @@ Knastrande ljud kan tyda på smuts i motorns kullager och ska inte ignoreras.
 
 ### Kompass-kalibrering
 
-Du ska i första hand följa drönartillverkarens instruktioner gällande kompass-kalibrering. Om instruktionerna saknas, och det finns ett behov av kompass-kalibrering, kan du använda
-nedanstående checklista.
+Du ska i första hand följa drönartillverkarens instruktioner gällande kompass-kalibrering. Om instruktionerna saknas, och det finns ett behov av kompass-kalibrering, kan du använda nedanstående checklista.
 
 1. Ta av klocka och andra metallföremål från dina kläder och på kroppen.
 2. Slå på radiosändaren.
@@ -28,7 +28,7 @@ nedanstående checklista.
 5. Starta kalibreringen i appen (om tillämpbart) eller via radiosändaren.
 6. Lägg radiosändaren åt sidan, ställ dig bakom drönaren med kameran riktad från dig och lyft sedan drönaren och håll den med raka armar.
 7. Rotera medurs ett komplett varv på cirka fem till sju sekunder.
-8. ”Vält” drönaren framåt så att kamera pekar rakt nedåt i marken. Påbörja ett nytt varv i samma tempo som innan.
+8. "Vält" drönaren framåt så att kamera pekar rakt nedåt i marken. Påbörja ett nytt varv i samma tempo som innan.
 9. Ställ ned drönaren och säkerställ att kalibreringen lyckats.
 
 ![Figur 27 En person som håller i drönare med raka armar](./A1A3_SE-sv/Figur_027.png)  
@@ -41,7 +41,7 @@ Figur 27 En person som håller i drönare med raka armar
 3. Behövs det en kalibrering av kompassen?
 4. Är foto- och videoutrustningen korrekt monterad?
 5. Är startplatsen säkrad?
-6. Finns det eventuella luftrumsrestriktioner (ref. kapitel 2 för luftrumsrestriktioner, drönarkartan, NOTAM och AIP)?
+6. Finns det eventuella luftrumsrestriktioner (ref. kapitel 2 för luftrumsrestriktioner, drönarkartan, NOTAM, AIP och AIP SUP)?
 7. Starta radiosändaren först, därefter drönaren och sist annan eventuell kringutrustning.
 8. Starta kamerasystemet (om tillämpbart).
 9. Är alla spakar i neutralläge?
