@@ -5,8 +5,7 @@ Om en olycka sker vid olaglig eller otillåten flygning täcks den inte av någo
 
 ### Om du ställer till det för andra ...
 
-**Ansvarsförsäkring**, eller tredje-mans-försäkring som den också kallas, täcker det man råkar orsaka andra men inte det man orsakar sig själv. Om det skulle ske en olycka genom att en drönare exempelvis kraschar in i någon annans egendom, täcker ansvarsförsäkringen kostnaden för skadorna på det drönaren flög in i. Däremot täcker den inte kostnaderna för de
-skador som eventuellt uppstått på själva drönaren.
+**Ansvarsförsäkring**, eller tredje-mans-försäkring som den också kallas, täcker det man råkar orsaka andra men inte det man orsakar sig själv. Om det skulle ske en olycka genom att en drönare exempelvis kraschar in i någon annans egendom, täcker ansvarsförsäkringen kostnaden för skadorna på det drönaren flög in i. Däremot täcker den inte kostnaderna för de skador som eventuellt uppstått på själva drönaren.
 
 Om man inte skulle ha ansvarsförsäkring, kan det bli tal om höga kostnader för att kunna ersätta det som förstörts – såpass höga att de kan vara svåra att betala för en privatperson. I vissa fall kan man till och med bli tvungen att betala skadestånd om man skadar någon annan eller dennes egendom.
 
@@ -25,8 +24,7 @@ Ofta ingår både sak- och ansvarsförsäkring i **hemförsäkringen**. Men krux
 
 ### Om du flyger på uppdrag för någon annan
 
-Om du däremot flyger kommersiellt, det vill säga att du får betalt eller någon annan typ av ersättning för att genomföra en flygning, gäller oftast inte hemförsäkringen. Som näringsidkare behöver du därför ha en **företagsförsäkring**. På samma sätt som för hemförsäkringen finns det ofta begränsningar om du flyger drönare. Så var noga med vilken försäkring och vilket försäkringsbolag du väljer, eller ha koll på vad som ingår i din
-företagsförsäkring om du redan har en sådan.
+Om du däremot flyger kommersiellt, det vill säga att du får betalt eller någon annan typ av ersättning för att genomföra en flygning, gäller oftast inte hemförsäkringen. Som näringsidkare behöver du därför ha en **företagsförsäkring**. På samma sätt som för hemförsäkringen finns det ofta begränsningar om du flyger drönare. Så var noga med vilken försäkring och vilket försäkringsbolag du väljer, eller ha koll på vad som ingår i din företagsförsäkring om du redan har en sådan.
 
 ### Om drönaren skadas i frakten
 
