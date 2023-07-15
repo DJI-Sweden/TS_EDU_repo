@@ -4,8 +4,9 @@ Drönare i klasserna C1, C2 och C3 inom den öppna kategorin ska efter den 1 jul
 
 ### Geostaket och geobur för att skydda
 
-Vissa områden med flygförbud är skyddade av ett så kallat **geostaket**. Det fungerar som ett virtuellt staket i luftrummet som helt enkelt inte går att passera med drönare.
+Vissa områden med flygförbud är skyddade av ett så kallat **geostaket**. Det fungerar som ett virtuellt staket i luftrummet som helt enkelt inte går att passera med drönare.  
 **Geobur** fungerar däremot på motsatt vis. I stället för att hålla drönaren utanför ett område stänger den i stället in drönaren i ett område. På det sättet är drönaren fast som i en virtuell bur i luftrummet. 
+
 
 ![Figur 2 Landskapsbild över flygplats med landningsbana och flygtorn](./A1A3_SE-sv/Figur_002.png)  
 Figur 2 Landskapsbild över flygplats med landningsbana och flygtorn
