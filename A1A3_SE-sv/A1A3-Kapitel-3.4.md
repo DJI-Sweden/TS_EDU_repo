@@ -4,7 +4,7 @@ Om din drönare ingår i den öppna kategorin och är fabrikstillverkad – allt
 
 För att flyga **C0-klassade** eller privatbyggda drönare som väger under 250 gram krävs det ingen utbildning och det finns ingen åldersgräns. Därför behöver vi inte ta någon hänsyn till dem just här. Men värt att nämna är att dessa och alla övriga drönare i den öppna kategorin inte får flygas över 120 meters höjd och inte heller över folksamlingar. Det är även viktigt att poängtera att om drönaren är utrustad med en sensor som kan fånga upp personuppgifter måste man registrera sig som operatör.
 
-För att flyga drönare som väger **över** 250 gram krävs det däremot att fjärrpiloten fyllt 16 år, att drönaren är identifierbar och att operatören (den ansvariga) är registrerad och identifierbar.
+För att flyga drönare som väger **över** 250 gram krävs det däremot att fjärrpiloten fyllt 15 år, att drönaren är identifierbar och att operatören (den ansvariga) är registrerad och identifierbar.
 
 Om din drönare är **C1-klassad** får den flyga som allra snabbast i 19 meter per sekund och i huvudsak inte väga mer än 900 gram. Dock finns det ett alternativ som går ut på att din drönare kan få väga mer, så länge den inte ger ifrån sig mer än 80 joule vid en krock i högsta hastighet.
 
