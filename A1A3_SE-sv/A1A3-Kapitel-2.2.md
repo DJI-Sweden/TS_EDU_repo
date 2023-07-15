@@ -16,3 +16,5 @@ Förutom att du kan kontrollera det aktuella läget för din planerade rutt i NO
 Kom ihåg att det i NOTAM kan finnas mer information som kan påverka din flygning.
 
 En annan karta för dig som planerar en drönarflygning är den som finns på Naturvårdsverkets webbplats https://skyddadnatur.naturvardsverket.se/. Den visar all **skyddad natur**, det vill säga alla nationalparker, naturreservat och övriga skyddade områden där du inte får flyga eller har begränsningar att flyga.
+
+![Transport Styrelsen](./images/Logga.png)

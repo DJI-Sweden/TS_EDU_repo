@@ -18,7 +18,8 @@ När drönaren är igång är det dags att starta kameran och se till att alla k
 
 Är alla spakar i neutralläge? Om svaret är ja, är du redo att flyga!
 
-Figur 16 En drönare som lyfter från marken
+![Figur 17 En drönare som lyfter från marken](./A1A3_SE-sv/Figur_017.png)
+Figur 17 En drönare som lyfter från marken
 
 Det är mycket viktigt att drönaren och utrustningen kontrolleras noggrant före varje start. Det är bra om en tekniskt ansvarig person utses om flera användare finns på samma luftfartyg. Under “Checklistor” längre ner hittar du ett exempel på hur du kan göra en okulärbesiktning (det vill säga en besiktning med hjälp av synen) av din drönare inför varje ny start.
 
@@ -28,13 +29,15 @@ Undersök i förväg hur området ser ut på karta eller satellitbild om du sakn
 
 Flyg inte över människor som inte medverkar i flygningen, i kontrollzon (CTR) eller R-områden (restriktionsområden) utan tillstånd eller utom regelverket. Om flygningen trots allt sker i en kontrollzon, måste du begära tillstånd via flygtrafikledningen. Du kan antingen ringa direkt till flygtrafikledningen eller mejla din förfrågan i förväg och bifoga karta, koordinater, flygradie, höjd, tider och telefonnummer som du ovillkorligen kan nås på under hela flygningen.
 
-Figur 17 Flygplan och flygledartorn
+![Figur 18 Flygplan och flygledartorn](./A1A3_SE-sv/Figur_018.png)
+Figur 18 Flygplan och flygledartorn
 
 Du måste ta hänsyn till topografi och kunna se din drönare hela tiden så att överföringen av flygdata eller styrning inte blockeras och att olyckor förhindras. Läs i drönarens manual hur du stänger av motorerna i luften vid en nödsituation, en så kallad planerad krasch, för att vara beredd om det skulle behövas.
 
 Kom ihåg att drönarens IR-sensorer kan störas av reflektioner från blanka ytor, såsom vatten, glas eller mosaik. Det kan göra att den bland annat tappar kontrollen över sin egen position och höjd, vilket i värsta fall kan leda till haveri. Om du ska flyga över sjöar, hav, dammar eller andra vattenansamlingar, bör du stänga av sensorer som sitter på drönarens undersida.
 
-Figur 18 Hav med klippor, fyr och lågt flygande fåglar över ytan
+![Figur 19 Hav med klippor, fyr och lågt flygande fåglar över ytan](./A1A3_SE-sv/Figur_019.png)
+Figur 19 Hav med klippor, fyr och lågt flygande fåglar över ytan
 
 ### Välj startplats
 
@@ -47,3 +50,5 @@ Undersök och välj ut alternativa landningsplatser om du skulle tvingas nödlan
 Kontrollera väderleken: temperatur, vind, dimma, molnighet. Och tänk på att minusgrader påverkar batterier negativt. Se till att hålla dem uppvärmda före start. Vid minusgrader krävs ofta extra kunskaper om batterierna – ta reda på hur just dina fungerar. I fuktigt väder och minusgrader kan det bildas is på propellrarna som innebär stor risk för haveri.
 
 Tänk på att vindhastigheten ofta ökar med höjden.
+
+![Transport Styrelsen](./images/Logga.png)

@@ -4,6 +4,9 @@ Du får inte vara påverkad av alkohol eller andra berusningsmedel som försämr
 drönarkort indraget.  
 Allt bruk av narkotikaklassade ämnen, såvida det inte är ordinerat av läkare, är olagligt och kan ge fängelsestraff.
 
+![Figur 9 Ölburk och vinflaskor](./A1A3_SE-sv/Figur_009.png)
+Figur 9 Ölburk och vinflaskor
+
 ### Hur påverkas du av alkohol?
 
 Det krävs inte mycket för att bli påverkad av alkohol, ibland mindre än vi själva tror. Och därför är det nolltolerans vad gäller alkoholkonsumtion vid drönarflygning. Om du druckit alkohol blir många av dina nödvändiga förmågor för att kunna flyga säkert lidande, alltifrån synförmågan till reaktions- och rörelseförmågan. Om du dricker får du svårare att bedöma avstånd, ett ökat tunnelseende och märker inte lika lätt att du blir trött.  
@@ -13,7 +16,8 @@ Det finns inte heller något man kan göra för att skynda på förbränningen a
 
 Alkoholhalten mäts i **promille**, som är beteckning för en tusendel (per mille). En promille kan jämföras med en droppe alkohol per tusen droppar blod. Även om två personer dricker exakt samma mängd alkohol når de inte samma promillehalt, eftersom det är deras olika förutsättningar som styr. Vikt, ålder, hälsa, kön eller hur mycket de ätit innan är alla faktorer som påverkar hur snabbt de blir påverkade av alkohol och hur fort den går ur kroppen.
 
-Figur 9 Mun som blåser i alkoholmätare
+![Figur 10 Mun som blåser i alkoholmätare](./A1A3_SE-sv/Figur_010.png)
+Figur 10 Mun som blåser i alkoholmätare
 
 Promillehalten mäts genom blåstest. Det går att köpa egna mätare, men de är inte alltid lika tillförlitliga som exempelvis de polisen använder.
 
@@ -26,3 +30,5 @@ Promillehalten mäts genom blåstest. Det går att köpa egna mätare, men de ä
 mjuka och precisa rörelser.
 * **Trötthet**: Du blir trött och dåsig och märker dessutom
 inte lika lätt när det sker.
+
+![Transport Styrelsen](./images/Logga.png)

@@ -5,3 +5,5 @@
 **Känseln** behövs för att du bland annat ska kunna kontrollera att alla delar på drönaren sitter som de ska. Vissa radiosändare har dessutom varningsvibrationer om något skulle hända medan drönaren är i luften.
 
 Och **luktsinnet** är viktigt om det plötsligt skulle börja lukta bränt.
+
+![Transport Styrelsen](./images/Logga.png)

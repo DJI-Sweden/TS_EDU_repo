@@ -15,3 +15,5 @@ tillsynsansvar och granskar att GDPR följs.
 **Personuppgifter** är allt som kan kopplas till en fysisk person som är i livet. Det är alltifrån namn, adresser, e-postadresser, telefonnummer och personnummer till olika registreringsnummer, men också till exempel en bild, en inspelning av en röst eller karaktärsbeskrivningar som gör att en person går att identifiera.
 
 Känsligare uppgifter som till exempel rör en persons hälsa, etniska ursprung, politiska åsikt och sexuella läggning har ett starkare skydd och får bara samlas in och användas om den berörda personen godkänt det, eller om landets lag tillåter det.
+
+![Transport Styrelsen](./images/Logga.png)

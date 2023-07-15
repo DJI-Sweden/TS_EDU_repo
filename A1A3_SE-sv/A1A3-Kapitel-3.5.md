@@ -60,3 +60,5 @@ Vid situationer då någon skadats allvarligt, med dödlig utgång eller när et
 #### Om jag rapporterat till Transportstyrelsen, måste jag även rapportera till Statens haverikommission?
 
 Om någon skadats allvarligt eller med dödlig utgång eller om ett luftfartyg fått omfattande skador, ska händelsen rapporteras både till Transportstyrelsen och till Statens haverikommission. De här händelsetyperna omfattas av förordningarna 376/2014 och 996/2010, som styr inrapportering av händelser och olyckor inom EU.
+
+![Transport Styrelsen](./images/Logga.png)

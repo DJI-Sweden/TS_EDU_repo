@@ -4,7 +4,8 @@ Innan du påbörjar en flygning måste du först och främst se till att du har 
 
 Vid varje nytt tillfälle måste du skaffa dig en överblick över miljön där du ska flyga. Finns det några eventuella hinder eller icke-medverkande personer i närheten? Hur ser området och luftrummet ut? Finns det några restriktioner eller är det fritt fram att flyga? Allt detta måste du ha kollat upp före start men självklart också hålla koll på under hela flygningen.
 
-Figur 15 Landskap med lite skog och fält med betande djur och människor som är ute och promenerar
+![Figur 16 Landskap med lite skog och fält med betande djur och människor som är ute och promenerar](./A1A3_SE-sv/Figur_016.png)
+Figur 16 Landskap med lite skog och fält med betande djur och människor som är ute och promenerar
 
 Något som kanske känns självklart, men som är oerhört viktigt för att förhindra olyckor och haveri, är att se till att drönaren och alla dess funktioner fungerar som de ska före start. I slutet av kapitlet finns exempel på praktiska checklistor att gå igenom både före och efter flygning – anpassa listorna till din specifika typ av drönare och ta för vana att gå igenom dem vid varje flygning.
 
@@ -26,3 +27,5 @@ Under flygningen ska du alltid kunna se din drönare. Du måste ha noggrann upps
 * Ha god koll på regler och begränsningar som gäller inom de områden där flygningen sker.
 * Använd drönarsystemet enligt användarmanualen från tillverkaren.
 * Flyg inte nära eller inom områden där en nödinsats pågår – om inte räddningstjänsten gett tillstånd.
+
+![Transport Styrelsen](./images/Logga.png)

@@ -7,3 +7,5 @@ https://www.transportstyrelsen.se/sv/luftfart/Luftfartsskydd-security
 ### Ser olika ut i olika länder
 
 Eftersom varje land har sin egen myndighet som ansvarar för sitt luftfartsskydd kan kraven och reglerna se olika ut beroende på var man befinner sig.
+
+![Transport Styrelsen](./images/Logga.png)

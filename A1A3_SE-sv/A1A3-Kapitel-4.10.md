@@ -15,3 +15,5 @@ Efter att ha förvärvat en viss erfarenhet tenderar vi att bli mer säkra på o
 * Följ fastställda **operativa procedurer** – de finns där för din och andras säkerhet
 * **Personliga begränsningar** – sätt en nivå som inte överstiger din förmåga eller operativa begränsningar
 * Kom ihåg – även om uppdraget är viktigt är **flygsäkerheten absolut viktigast!**
+
+![Transport Styrelsen](./images/Logga.png)

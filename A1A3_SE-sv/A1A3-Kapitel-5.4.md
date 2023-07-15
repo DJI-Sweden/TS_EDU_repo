@@ -8,7 +8,8 @@ När du landat och stängt av strömmen till drönaren och övrig utrustning ska
 
 Gör en **okulärbesiktning** och titta efter skador och onormalt slitage på och omkring flygkroppen, kablar och propellrar. Alla lösa delar, såsom skruvar, fästen och leder, ska sitta fast ordentligt. Om du snurrar på propellrarna ska de inte låta nämnvärt. Knastrande ljud kan tyda på smuts i motorns kullager. Om propellrarna är skadade på något vis, måste de bytas ut.
 
-Figur 24 Propeller med sprickor
+![Figur 25 Propeller med sprickor](./A1A3_SE-sv/Figur_025.png)
+Figur 25 Propeller med sprickor
 
 Under “Checklistor” finner du ett exempel på en checklista för okulärbesiktning som du kan följa både före och efter flygning
 
@@ -21,3 +22,5 @@ Batterierna kräver noggrant underhåll. Efter varje landning ska du ta ut dem o
 * **Efter landning**: meddela flygtrafikledningen att flygningen är avklarad.
 * **Kontrollera drönaren**: torka rent vid behov, kontrollera propellrar och allmänna skicket.
 * **Batterier**: sätt batterierna på laddning efter flygning, förvara dem mörkt och svalt och låt dem inte ligga med låg laddning.
+
+![Transport Styrelsen](./images/Logga.png)

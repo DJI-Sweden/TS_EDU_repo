@@ -20,3 +20,5 @@ VLOS innebär, förutom att du alltid måste kunna se din drönare när du flyge
 ### Att inte ha farliga ämnen, gaser eller vätskor som last
 
 I drönarsammanhang kan man även stöta på begreppet **farligt gods**. Det är föremål eller ämnen som drönaren kan bära på och som skulle kunna bli farliga vid en krock eller olycka. Det är inte tillåtet att flyga med farligt gods utan tillstånd. Ämnen, gaser eller vätskor som är explosiva, brandfarliga, giftiga, radioaktiva, frätande eller smittsamma är alla exempel på sådant.
+
+![Transport Styrelsen](./images/Logga.png)

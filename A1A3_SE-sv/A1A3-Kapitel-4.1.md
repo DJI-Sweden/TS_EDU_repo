@@ -14,3 +14,5 @@ Det finns vissa knep för att inte låta stressen ta över. Ett knep är att hå
 luften och på marken är lugnare och lägre.
 * **Framförhållning**: Om du är väl förberedd inför flygningen, kommer du att känna dig lugnare. (Se kapitel 5: Planera och genomföra en flygning – operativa procedurer.)
 * **Sömn**: Var utvilad innan och under flygning!
+
+![Transport Styrelsen](./images/Logga.png)

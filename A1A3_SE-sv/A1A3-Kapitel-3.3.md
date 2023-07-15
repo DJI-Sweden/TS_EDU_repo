@@ -27,3 +27,5 @@ medverkande personer.
 * **A2**: C2-klassade (om de inte är privatbyggda) under fyra kilo, får flygas på 30 meters horisontellt avstånd från människor (5 meter om låghastighetsläget är aktiverat) men aldrig över. Kräver kunskap om meteorologi, din drönares prestanda och segregeringen av de område som överflygs.
 
 * **A3**: C2- till C4-klassade drönare (om de inte är privatbyggda) under 25 kilo, får inte flygas i närheten av människor eller på platser där människor troligtvis kan befinna sig.
+
+![Transport Styrelsen](./images/Logga.png)

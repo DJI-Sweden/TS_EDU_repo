@@ -15,3 +15,5 @@ När du omedvetet tar efter och lär dig genom hur andra i din närhet gör, är
 
 Ofta kan erfarenhet ge den bästa kompetensen. Genom att flyga tillräckligt mycket kommer du till slut att kunna flyga automatiskt. Inlärningsmetoden kallas **överinlärning**. Det är viktigt för att du ska kunna lära dig flyga drönaren utan att lägga onödigt stort fokus på själva manövreringen och istället kunna koncentrera dig på omgivningen, hinna upptäcka faror och planera nästa steg i rutten i tid.  
 Men om du blir alltför bekväm kan det samtidigt resultera i att du som fjärrpilot blir mindre uppmärksam, eftersom du litar lite för mycket på din egen kompetens och förmåga. Flyger du dessutom ofta i samma område kan det hända att du tar mycket för givet och av den orsaken bli mindre vaksam. Detta kallas för **sannolikhetsinlärning**. Men det är naturligtvis inte bara negativt, eftersom du också lär dig vad som förväntas och krävs just där.
+
+![Transport Styrelsen](./images/Logga.png)

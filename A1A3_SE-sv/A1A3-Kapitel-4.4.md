@@ -12,3 +12,5 @@ Det är omedvetna, extremt korta episoder av sömn som kan inträffa när och va
 * Respektera trötthetsignaler. Var extra uppmärksam i slutet av flygningen eller om du flyger på natten eller i mörker.
 * Flyg hellre korta än långa pass.
 * Ta pauser, 20 minuters vila kan räcka som återhämtning.
+
+![Transport Styrelsen](./images/Logga.png)

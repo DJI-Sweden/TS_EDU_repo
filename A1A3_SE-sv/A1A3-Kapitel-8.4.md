@@ -10,3 +10,5 @@ Olika länder, även inom EU, kan ha egna regler och krav på försäkringar. S�
 * **Specialförsäkring**: Om inte villkoren för din hemförsäkring eller företagsförsäkring täcker dina behov, finns det andra specialförsäkringar som kanske passar bättre.
 
 * **Flyga utomlands**: Kontrollera att din försäkring täcker eventuella skador i utlandet och ta reda på om det finns några nationella regler där du ska flyga.
+
+![Transport Styrelsen](./images/Logga.png)

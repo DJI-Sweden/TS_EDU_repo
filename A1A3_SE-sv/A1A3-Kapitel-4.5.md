@@ -2,7 +2,8 @@
 
 Det mesta av all information du behöver får du genom dina ögon och just synen är det sinne du har användning för allra mest under dina flygningar. Många av oss har någon form av synnedsättning och synfel kan komma smygande utan att vi märker det. Av den anledningen är det bra att du kontrollerar synen hos en optiker med jämna mellanrum, helst en gång per år. Om du behöver glasögon eller linser, måste du använda dem när du flyger.
 
-Figur 11 Person med glasögon
+![Figur 12 Person med glasögon](./A1A3_SE-sv/Figur_012.png)
+Figur 12 Person med glasögon
 
 ### De skarpa två procenten
 
@@ -49,6 +50,9 @@ Ytterligare ett skäl att vara utvilad när du ska flyga!
 
 Den vanligaste formen av färgblindhet är ärftlig, ofta medfödd och kallas **röd-grön färgblindhet**. Om du har den här typen av färgblindhet, har du inte bara svårt att skilja på rött och grönt utan också på de färger som har rött eller grönt i sig. Exempelvis kan du ha svårt att skilja på brunt och grönt eftersom brunt är en blandning av rött och grönt, eller blått och lila eftersom lila är en blandning av rött och blått.
 
-Figur 12 Exempel på bild som används vid test av färgblindhet
+![Figur 13 Exempel på bild som används vid test av färgblindhet](./A1A3_SE-sv/Figur_013.png)
+Figur 13 Exempel på bild som används vid test av färgblindhet
 
 En annan typ är **blå-gul färgblindhet**. Den gör inte att en person har – som det kanske kan låta – svårt att skilja på gult och blått utan i stället på de färger som befinner sig mellan blått och gult på färgskalan. Gult kan exempelvis uppfattas som rosa och blått som grönt. En tredje och väldigt sällsynt form av färgblindhet gör att man inte kan se några färger alls utan allt ses i **gråskalor**.
+
+![Transport Styrelsen](./images/Logga.png)
