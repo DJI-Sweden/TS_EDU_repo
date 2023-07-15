@@ -16,7 +16,7 @@ Om man däremot varit grovt oaktsam eller på något annat sätt brutit mot lage
 
 **Sakförsäkring**, även kallad kaskoförsäkring eller egendomsförsäkring, täcker däremot det som tillhör dig. Om din drönare exempelvis skulle gå sönder i en krasch, i en brand eller bli stulen och du tecknat en sådan försäkring, kommer skadan med avdrag för eventuell självrisk att bli ersatt.
 
-![Figur 41 Trasig drönare](./A1A3_SE-sv/Figur_041.png)
+![Figur 41 Trasig drönare](./A1A3_SE-sv/Figur_041.png)  
 Figur 41 Trasig drönare
 
 ### Vad ingår i din hemförsäkring?
@@ -32,7 +32,7 @@ företagsförsäkring om du redan har en sådan.
 
 Om du behöver frakta din drönare med ett transportbolag och den på något sätt skadas under färden, får du vanligtvis bara ersättning som motsvarar vikten på drönaren. Det innebär för det mesta en stor förlust. Därför kan det vara bra att teckna en **transportförsäkring** som går att göra via vissa transportbolag direkt eller hos olika försäkringsbolag. Dessutom har många företagsförsäkringar skydd mot transportskador, vilket kan vara bra att ha i åtanke om du planerar att teckna en sådan försäkring eller redan har en.
 
-![Figur 42 Fraktbil](./A1A3_SE-sv/Figur_042.png)
+![Figur 42 Fraktbil](./A1A3_SE-sv/Figur_042.png)  
 Figur 42 Fraktbil
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

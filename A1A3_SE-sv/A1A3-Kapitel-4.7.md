@@ -6,7 +6,7 @@ Nästan alla påverkas på ett eller annat sätt av att umgås i grupp. Det kan 
 
 I de sammanhang där du inte vågar sticka ut, verka feg eller bara har svårt att säga ifrån kan grupptrycket bli negativt. Trycket kan göra att du i en flygsituation drivs till att flyga tuffare och mer riskfyllt och göra sådant som du vet inte är rätt, till exempel dricka alkohol trots nolltoleransen vid drönarflygning.
 
-![Figur 14 Fjärrpilot som flyger en drönare över en grupp av människor](./A1A3_SE-sv/Figur_014.png)
+![Figur 14 Fjärrpilot som flyger en drönare över en grupp av människor](./A1A3_SE-sv/Figur_014.png)  
 Figur 14 Fjärrpilot som flyger en drönare över en grupp av människor
 
 ### Positivt grupptryck
@@ -17,4 +17,4 @@ I de sammanhang där du känner att du kan vara uppriktig och att dina åsikter 
 
 Med tanke på grupptryck är det också av stor vikt att du själv tar ansvar och inte försöker påverka eller pressa någon till att göra något som den egentligen inte vill.
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

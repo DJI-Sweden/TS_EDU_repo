@@ -21,7 +21,7 @@ Flyg aldrig över 120 meter ovanför mark eller längre bort än du kan se din d
 
 Du får inte heller störa pågående verksamheter eller nödinsatser, om du inte fått tillåtelse från räddningstjänst. Landa genast drönaren om någon helikopter eller annan lågt flygande farkost närmar sig området. Om människor eller djur rör sig mot det område där drönaren är, flyg åt motsatt håll till en säker plats och avvakta tills faran är över. Om detta inte går eller vid en trängd situation – avbryt flygningen helt och landa.
 
-![Figur 20 Polis och ambulans under utryckning](./A1A3_SE-sv/Figur_020.png)
+![Figur 20 Polis och ambulans under utryckning](./A1A3_SE-sv/Figur_020.png)  
 Figur 20 Polis och ambulans under utryckning
 
 ### Var beredd på nödsituationer
@@ -37,7 +37,7 @@ Olika drönare har olika många motorer och reagerar därför också på olika s
 
 Vissa typer av drönare har autorotering som funktion vid motorhaveri. Det innebär att drönaren börjar rotera i stället för att falla rakt ner mot marken och på så sätt får den en mjukare landning. Det ger dessutom dig och andra i omgivningen mer tid till att ta skydd för den fallande drönaren. Ta därför reda på hur din drönare fungerar och vad den klarar av.
 
-![Figur 21 Kraschad drönare](./A1A3_SE-sv/Figur_021.png)
+![Figur 21 Kraschad drönare](./A1A3_SE-sv/Figur_021.png)  
 Figur 21 Kraschad drönare
 
 * **Isbildning och minusgrader kan leda till haveri**  
@@ -49,14 +49,14 @@ Det kan bildas is på propellrarna. Då skapar de inte den lyftkraft de behöver
 Kontakten mellan radiosändare och drönare kan tappas. Om RTH aktiveras, är det viktigt att du ställt in en säker höjd för en **automatisk hemfärd**.  
 Dessutom är det viktigt att du gjort de inställningar för RTH och startposition som passar bäst för det specifika tillfället. Om drönaren exempelvis flyger över vatten och du själv befinner dig ombord på en båt som rör sig, kan det vara lämpligt att inte låta drönaren flyga tillbaka till startpositionen och på så sätt landa i vattnet. Då är det lämpligare att luftfartyget följer radiosändaren eller dig genom att du placerar ut nya startpositioner under flygningens gång. Detta kan vara bra att ha med i en checklista före flygningen så att du hela tiden är beredd på vad som sker vid aktivering av RTH.
 
-![Figur 22 Situation där handenheten har tappat kontakten med drönaren](./A1A3_SE-sv/Figur_022.png)
+![Figur 22 Situation där handenheten har tappat kontakten med drönaren](./A1A3_SE-sv/Figur_022.png)  
 Figur 22 Situation där handenheten har tappat kontakten med drönaren
 
 * **Nyfikna fåglar i vägen**
 
 Det är viktigt att ha god uppsikt över andra luftfartyg i luftrummet men också över **fåglar**. Fåglar är ofta nyfikna, ibland även aggressiva och kan utgöra stora störningsmoment och risker. Om du flyger över vatten, ska du också tänka på att fåglar gärna flyger lågt över ytan. Om du under flygning har nyfikna eller aggressiva fåglar i närheten av din drönare, ska du överväga att landa och avbryta flygningen.
 
-![Figur 23 Drönare som blir attackerad av fåglar](./A1A3_SE-sv/Figur_023.png)
+![Figur 23 Drönare som blir attackerad av fåglar](./A1A3_SE-sv/Figur_023.png)  
 Figur 23 Drönare som blir attackerad av fåglar
 
 ### När du ska landa
@@ -65,7 +65,7 @@ Du kan landa både automatiskt och manuellt. Ett vanligt sätt är att aktivera 
 
 Du måste kontrollera om det finns några hinder eller risker i landningsområdet. När du gjort det, ska du landa drönaren på ett säkert avstånd från de eventuella hindren och människorna. Om du ska landa med en drönare med fasta vingar krävs ett större område utan träd och hus.
 
-![Figur 24 En person som landar en drönare](./A1A3_SE-sv/Figur_024.png)
+![Figur 24 En person som landar en drönare](./A1A3_SE-sv/Figur_024.png)  
 Figur 24 En person som landar en drönare
 
 Till sist stänger du av strömmen till drönaren och landningen är avklarad!
@@ -77,4 +77,4 @@ Till sist stänger du av strömmen till drönaren och landningen är avklarad!
 * **Var beredd på nödsituationer**: rör dig uppåt om kompassen störs, ta reda på hur din drönare fungerar vid motorhaveri och isbildning på propellrar, se till att ha rätt inställningar vid aktivering av RTH och håll uppsikt över och avstånd till fåglar.
 * **Landning**: landa antingen manuellt eller automatiskt på ett säkert avstånd från eventuella hinder och människor.
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

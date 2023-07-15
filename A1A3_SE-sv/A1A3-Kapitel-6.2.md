@@ -14,7 +14,7 @@ Det finns drönare som har fasta vingar. Oftast har de då enbart en eller två 
 
 Den största skillnaden mellan en drönare med fasta vingar och en multirotor är att den förstnämnda snarare liknar ett flygplan än en helikopter till designen. Dessa drönare kan både nå en längre räckvidd och flygtid än multirotordrönare och dessutom komma upp i högre hastigheter. Dock behöver de en start- och landningsbana, eftersom de kastas igång.
 
-![Figur 30 En drönare med fasta vingar och en multirotor](./A1A3_SE-sv/Figur_030.png)
+![Figur 30 En drönare med fasta vingar och en multirotor](./A1A3_SE-sv/Figur_030.png)  
 Figur 30 En drönare med fasta vingar och en multirotor
 
 Vingarna på den här typen av drönare kan göra så att ett motorhaveri slutar bättre. Till skillnad från en multirotor – som i värsta fall bara faller rak ner mot marken – kan dessa luftfartyg segla i luften av vingarna och på så sätt få en mjukare landning. Däremot kan den inte på samma sätt som en multirotor stå och hovra på ett och samma ställe i luften. Den kan inte heller lika lätt väja för eventuella hinder som plötsligt dyker upp.
@@ -25,14 +25,14 @@ nedåt, vilket kan vara bra i de fall du vill övervaka eller kartlägga och mä
 Värt att nämna är att det finns hybridvarianter där drönare med fasta vingar har fler än två
 propellrar.
 
-![Figur 31 Hybridvariant](./A1A3_SE-sv/Figur_031.png)
+![Figur 31 Hybridvariant](./A1A3_SE-sv/Figur_031.png)  
 Figur 31 Hybridvariant
 
 ### Radiosändaren – drönarens ratt
 
 **Radiosändaren** kommunicerar med drönaren och hanterar bland annat dess förflyttning och kamerafunktioner. Om kontakten från radiosändaren bryts, har många drönare som funktion att den efter några sekunder automatiskt flyger tillbaka till startpositionen och landar. Det är i så fall en standardinställning som går att ändra om så önskas.
 
-![Figur 32 Radiosändare med vinklade antenner för bösta mottagning](./A1A3_SE-sv/Figur_032.png)
+![Figur 32 Radiosändare med vinklade antenner för bösta mottagning](./A1A3_SE-sv/Figur_032.png)  
 Figur 32 Radiosändare med vinklade antenner för bösta mottagning
 
 Antennernas placering är extra viktig vid flygning på längre avstånd. Det är antennernas långsidor som ska peka mot drönaren, inte spetsarna. (Spetsarna saknar sändnings- och mottagningsförmåga).
@@ -57,7 +57,7 @@ Radiosändaren behöver inte kommunicera med drönaren via Ghz-frekvenser utan k
 
 Alla typer av drönarsystem, förutom C0 och C4, i den öppna kategorin ska efter den 1 juli 2020 vara utrustade med en så kallad **geomedvetenhet**. Denna funktion går ut på att du som är fjärrpilot ska kunna få information om till exempel gränser i luftrummet i förhållande till din drönares position och höjd. Dessutom ska du kunna bli varnad vid eventuella överträdelser i luftrummet.
 
-![Figur 33 Landskapsbild över flygplats med landningsbana och flygledartorn](./A1A3_SE-sv/Figur_033.png)
+![Figur 33 Landskapsbild över flygplats med landningsbana och flygledartorn](./A1A3_SE-sv/Figur_033.png)  
 Figur 33 Landskapsbild över flygplats med landningsbana och flygledartorn
 
 ### NOTAM – information om vad som sker i luftrummet
@@ -78,7 +78,7 @@ Om kommunikationen mellan drönaren och radiosändaren bryts under ett antal sek
 
 Det är viktigt att förstå att höjden som drönaren flyger hem på alltid är i relation till sin startposition. Drönaren förstår alltså inte den faktiska höjden från marken, så kollisioner med exempelvis master eller höga berg kan ske, om de är i vägen när drönaren är på väg tillbaka till startposition. Vissa drönare har dock antikollisionssensorer som kan se och undvika hinder.
 
-![Figur 34 Landskapsbild på drönare som flyger bland berg och master](./A1A3_SE-sv/Figur_034.png)
+![Figur 34 Landskapsbild på drönare som flyger bland berg och master](./A1A3_SE-sv/Figur_034.png)  
 Figur 34 Landskapsbild på drönare som flyger bland berg och master
 
 RTH-funktionen kan också aktiveras manuellt av dig som är fjärrpilot. Det är bra om du skulle tappa orienteringen på drönaren eller om videolänken skulle brytas. Använd inte RTH vid problem med drönarens kompass.
@@ -87,14 +87,14 @@ RTH-funktionen kan också aktiveras manuellt av dig som är fjärrpilot. Det är
 
 Att kalibrera den inbyggda **kompassen** (magnetometern) är absolut nödvändigt för att drönarsystemet ska känna av jordens magnetfält på platsen. Om en kalibrering utförs felaktigt eller inte alls på en ny plats, kan det i värsta fall leda till haveri och att drönaren uppvisar oregelbundna och ofrivilliga rörelser. Hur du utför en så kallad kompasskalibrering hittar du under “Checklistor” i slutet av kapitel 5: Operativa procedurer.
 
-![Figur 35 Kompass](./A1A3_SE-sv/Figur_035.png)
+![Figur 35 Kompass](./A1A3_SE-sv/Figur_035.png)  
 Figur 35 Kompass
 
 ### Håller kameran stabil
 
 En **gimbal** har till uppgift att motverka drönarens rörelser och vibrationer under flygning för en inbyggd eller externt monterad kamera. Resultatet blir en horisontellt rak bild utan skakningar. För att tekniken ska fungera är det viktigt attv arje axel som ska balanseras är i absolut balans. Drönare med fasta vingar har inte alltid gimbal men oftast en fast kamera riktad nedåt, beroende på syftet med flygningen.
 
-![Figur 36 Kamera upphängd i gimbal](./A1A3_SE-sv/Figur_036.png)
+![Figur 36 Kamera upphängd i gimbal](./A1A3_SE-sv/Figur_036.png)  
 Figur 36 Kamera upphängd i gimbal
 
 ### Hantering av drönarens batterier
@@ -119,7 +119,7 @@ Dessutom ska du som är fjärrpilot i god tid bli varnad om batterinivån börja
 
 För att förbättra drönarens synlighet vid flygningar i mörker, och särskilt för att göra det möjligt för en person på marken att enkelt skilja drönaren från bemannade luftfartyg, bör ett grönt blinkande ljus vara aktiverat.
 
-![Figur 37 Drönare med belysning under flygning i mörker](./A1A3_SE-sv/Figur_037.png)
+![Figur 37 Drönare med belysning under flygning i mörker](./A1A3_SE-sv/Figur_037.png)  
 Figur 37 Drönare med belysning under flygning i mörker
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

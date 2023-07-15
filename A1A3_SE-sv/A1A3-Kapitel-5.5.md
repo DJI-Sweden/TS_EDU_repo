@@ -2,7 +2,7 @@
 
 Ta för vana att gå igenom checklistor både före och efter flygning för att allt ska gå så smidigt och säkert som möjligt. Listorna kan se olika ut och du kan anpassa dem till din drönare. Nedan har vi tagit med exempel på hur de kan se ut.
 
-![Figur 26 Checklista i telefon](./A1A3_SE-sv/Figur_026.png)
+![Figur 26 Checklista i telefon](./A1A3_SE-sv/Figur_026.png)  
 Figur 26 Checklista i telefon
 
 ### Okulärbesiktning
@@ -31,7 +31,7 @@ nedanstående checklista.
 8. ”Vält” drönaren framåt så att kamera pekar rakt nedåt i marken. Påbörja ett nytt varv i samma tempo som innan.
 9. Ställ ned drönaren och säkerställ att kalibreringen lyckats.
 
-![Figur 27 En person som håller i drönare med raka armar](./A1A3_SE-sv/Figur_027.png)
+![Figur 27 En person som håller i drönare med raka armar](./A1A3_SE-sv/Figur_027.png)  
 Figur 27 En person som håller i drönare med raka armar
 
 ### Förberedelser före start
@@ -57,7 +57,7 @@ Figur 27 En person som håller i drönare med raka armar
 5. Stör inga pågående räddningsinsatser.
 6. Landa genast drönaren om en helikopter eller någon annan lågt flygande farkost närmar sig.
 
-![Figur 28 Drönare som möter helikopter](./A1A3_SE-sv/Figur_028.png)
+![Figur 28 Drönare som möter helikopter](./A1A3_SE-sv/Figur_028.png)  
 Figur 28 Drönare som möter helikopter
 
 ### Landning
@@ -73,4 +73,4 @@ Figur 28 Drönare som möter helikopter
 3. Okulärbesikta: titta efter skador och onormalt slitage.
 4. Ta ut batterierna, ladda upp dem och förvara på säkert ställe.
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

@@ -24,7 +24,7 @@ Det är viktigt att poängtera att du som fjärrpilot ska inte flyga i områden 
 * Får väga max 900 gram eller ge ifrån sig mindre än 80 joule vid kollision.
 * Får inte medvetet flygas över icke-medverkande. Om så ändå sker ska drönaren skyndsamt flygas undan.
 
-![Figur 4 Så här ser märkningen ut på en C1-drönare](./A1A3_SE-sv/Figur_004.png)
+![Figur 4 Så här ser märkningen ut på en C1-drönare](./A1A3_SE-sv/Figur_004.png)  
 Figur 4 Så här ser märkningen ut på en C1-drönare
 
 **C2-klassade** drönare får väga max fyra kilo. De ingår i underkategori A2, vilket innebär att du inte får flyga sådana drönare över någon men däremot i närheten om du håller ett horisontellt avstånd på mer än 30 meter. Om du har låghastighetsläget aktiverat, får du till
@@ -36,7 +36,7 @@ och med flyga så nära som fem meter.
 * Får inte flygas över personer eller folksamlingar.
 * Får flygas i närheten av människor på ett horisontellt avstånd på minst 30 meter, eller fem meter om låghastighetsläget är aktiverat.
 
-![Figur 5 Så här ser märkningen ut på en C2-drönare](./A1A3_SE-sv/Figur_005.png)
+![Figur 5 Så här ser märkningen ut på en C2-drönare](./A1A3_SE-sv/Figur_005.png)  
 Figur 5 Så här ser märkningen ut på en C2-drönare
 
 ### Det här gäller för C3-klassade drönare
@@ -46,7 +46,7 @@ Figur 5 Så här ser märkningen ut på en C2-drönare
 * Får inte flygas i närheten av människor.
 * Måste hållas minst 150 meter från bostads-, affärs-, industri- eller rekreationsområden.
 
-![Figur 6 Så här ser märkningen ut på en C3-drönare](./A1A3_SE-sv/Figur_006.png)
+![Figur 6 Så här ser märkningen ut på en C3-drönare](./A1A3_SE-sv/Figur_006.png)  
 Figur 6 Så här ser märkningen ut på en C3-drönare
 
 Drönare som är **C3-** eller **C4-klassade** får inte väga mer än 25 kilo. De ingår i underkategori A3, vilket innebär att de bara får flygas i områden där andra personer rimligtvis inte befinner sig. Det är därför kravet på att hålla dessa drönare minst 150 meter från bostads-, kommersiella, industriella eller rekreationsområden (såsom parker och friluftsområden) finns. Unikt för C3-klassade drönare är att de inte får vara bredare än tre meter, och unikt för C4-klassade
@@ -60,12 +60,12 @@ drönare att de inte får styras automatiskt.
 * Måste hållas minst 150 meter från bostads-, affärs-,
 industri- eller rekreationsområden.
 
-![Figur 7 Så här ser märkningen ut på en C4-drönare](./A1A3_SE-sv/Figur_007.png)
+![Figur 7 Så här ser märkningen ut på en C4-drönare](./A1A3_SE-sv/Figur_007.png)  
 Figur 7 Så här ser märkningen ut på en C4-drönare
 
 Något som är gemensamt för C2- och C3-klassade drönare är de specifika reglerna som finns kring förtöjning eller fjättring. Om du skulle behöva säkra din drönare eller använda trådad kraftöverföring om flygningen är lång och kräver mer energitid än vad ett batteri kan ge, så har din så kallade förtöjning en hållfasthet som är mer än tio gånger så stark som vikten på din drönare. Så om drönaren väger tio kilo, måste förtöjningen ha en hållfasthet på över 100 kilo. Dessutom får själva förtöjningen inte vara över 50 meter lång.
 
-![Figur 8 Förtöjd drönare](./A1A3_SE-sv/Figur_008.png)
+![Figur 8 Förtöjd drönare](./A1A3_SE-sv/Figur_008.png)  
 Figur 8 Förtöjd drönare
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

@@ -1,3 +1,10 @@
+.00 - Förord
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-0.0[Kapitel 0 - Förord]
+====
+
 .01 - Flygsäkerhet
 [%collapsible]
 ====
@@ -13,4 +20,81 @@
 . link:./A1A3-Kapitel-2.0[Kapitel 2 - Flygrummet]
 .. link:./A1A3-Kapitel-2.1[2.1 - Geomedvetenhet]
 .. link:./A1A3-Kapitel-2.2[2.2 - Information om luftrummet]
+====
+
+.03 - Luftfartsregler
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-3.0[Kapitel 3 - Luftfartsregler]
+.. link:./A1A3-Kapitel-3.1[3.1 - Reglerna i korthet]
+.. link:./A1A3-Kapitel-3.2[3.2 - Behörighet]
+.. link:./A1A3-Kapitel-3.3[3.3 - Underkategori A]
+.. link:./A1A3-Kapitel-3.4[3.4 - C-klasser]
+.. link:./A1A3-Kapitel-3.5[3.5 - Krav på användning]
+====
+
+.04 - Människan
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-4.0[Kapitel 4 - Människan]
+.. link:./A1A3-Kapitel-4.1[4.1 - Stress]
+.. link:./A1A3-Kapitel-4.2[4.2 - Alkohol och droger]
+.. link:./A1A3-Kapitel-4.3[4.3 - Medicin]
+.. link:./A1A3-Kapitel-4.4[4.4 - Uthållighet]
+.. link:./A1A3-Kapitel-4.5[4.5 - Synen]
+.. link:./A1A3-Kapitel-4.6[4.6 - Andra sinnen]
+.. link:./A1A3-Kapitel-4.7[4.7 - Grupptryck]
+.. link:./A1A3-Kapitel-4.8[4.8 - Inlärning]
+.. link:./A1A3-Kapitel-4.9[4.9 - Automation]
+.. link:./A1A3-Kapitel-4.10[4.2 - Riskhantering]
+====
+
+.05 - Flygning
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-5.0[Kapitel 5 - Flygning]
+.. link:./A1A3-Kapitel-5.1[5.1 - Skyldigheter]
+.. link:./A1A3-Kapitel-5.2[5.2 - Innan start]
+.. link:./A1A3-Kapitel-5.3[5.3 - Under flygning]
+.. link:./A1A3-Kapitel-5.4[5.4 - Efter flygning]
+.. link:./A1A3-Kapitel-5.5[5.5 - Checklistor]
+====
+
+.06 - Drönaren
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-6.1[Kapitel 6.1 - Vad är en drönare?]
+.. link:./A1A3-Kapitel-6.2[6.2 - Viktiga funktioner]
+====
+
+.07 - Hantera uppgifter
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-7.0[Kapitel 7 - Hantera uppgifter]
+.. link:./A1A3-Kapitel-7.1[7.1 - Skydd av personlig integritet]
+.. link:./A1A3-Kapitel-7.2[7.2 - Skydd av geografisk information]
+====
+
+.08 - Olyckor
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-8.0[Kapitel 8 -Olyckor]
+.. link:./A1A3-Kapitel-8.1[8.1 - Vad är en försäkring?]
+.. link:./A1A3-Kapitel-8.2[8.2 - Försäkring för drönare]
+.. link:./A1A3-Kapitel-8.3[8.3 - Försäkringsbolag]
+.. link:./A1A3-Kapitel-8.4[8.3 - Krav i andra länder]
+====
+
+.09 - Flygtrafikbrott
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A1A3-Kapitel-9.0[Kapitel 9 - Flygtrafikbrott]
+.. link:./A1A3-Kapitel-9.1[9.1 - Transportstyrelsen]
 ====

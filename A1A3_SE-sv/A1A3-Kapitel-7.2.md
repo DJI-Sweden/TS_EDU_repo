@@ -11,7 +11,7 @@ För att inte riskera att sprida skyddade uppgifter måste du ta hänsyn till at
 
 Det kan vara bra att tänka på att skog ofta är privatägd. Om du själv äger skogen du tänkt avbilda får du sprida materialet som du vill – så länge det inte innehåller himmel, horisont, byggnader eller andra konstruktioner som inte hör till skogsbruket.
 
-![Figur 38 Skog](./A1A3_SE-sv/Figur_038.png)
+![Figur 38 Skog](./A1A3_SE-sv/Figur_038.png)  
 Figur 38 Skog
 
 ### Du kan behöva söka spridningstillstånd
@@ -24,7 +24,7 @@ Det är i regel inte tillåtet att sprida bilder eller filmer. Dock finns det sp
 
 Områden som du får avbilda för att sedan sprida utan tillstånd är offentliga platser, offentliga tillställningar, bostadsbyggnader, åkermark, golfbanor och byggarbetsplatser. Men glöm inte att förhålla dig till det som står i GDPR om personuppgiftsbehandling!
 
-![Figur 39 Övervakningskamera](./A1A3_SE-sv/Figur_039.png)
+![Figur 39 Övervakningskamera](./A1A3_SE-sv/Figur_039.png)  
 Figur 39 Övervakningskamera
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  

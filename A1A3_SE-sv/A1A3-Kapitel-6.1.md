@@ -8,7 +8,7 @@ Drönare finns i alla möjliga storlekar och kan väga alltifrån något hundrat
 
 De två typerna skiljer sig inte bara genom design och konstruktion utan också i syfte. Ofta flyger man multirotordrönare för att kunna fotografera eller filma från luften, medan drönare med fasta vingar oftare används till att mäta, kartlägga eller övervaka större områden.
 
-![Figur 29 Drönare](./A1A3_SE-sv/Figur_029.png)
+![Figur 29 Drönare](./A1A3_SE-sv/Figur_029.png)  
 Figur 29 Drönare
 
-![Transport Styrelsen](./images/Logga.png)
+![Transport Styrelsen](./images/Logga.png)  
