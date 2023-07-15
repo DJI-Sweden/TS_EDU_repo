@@ -20,7 +20,9 @@ Om du ska sprida eller publicera material du filmat eller fotograferat under en 
 
 ### Vad får spridas utan tillstånd?
 
-Det är i regel inte tillåtet att sprida bilder eller filmer. Dock finns det speciella undantag. Generellt kan man säga att om horisonten inte finns med i bilden eller på filmen så kan möjligheten finnas att använda något av undantagen för spridning.
+Det är i regel inte tillåtet att sprida bilder eller filmer. Dock finns det speciella undantag.  
+Generellt kan man säga att om horisonten inte finns med i bilden eller på filmen så kan möjligheten finnas att använda något av undantagen för spridning.  
+[Undantag | Lantmäteriet (lantmateriet.se)](https://www.lantmateriet.se/sv/spridningstillstand/undantag/)
 
 Områden som du får avbilda för att sedan sprida utan tillstånd är offentliga platser, offentliga tillställningar, bostadsbyggnader, åkermark, golfbanor och byggarbetsplatser. Men glöm inte att förhålla dig till det som står i GDPR om personuppgiftsbehandling!
 
