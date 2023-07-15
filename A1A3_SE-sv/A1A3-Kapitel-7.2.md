@@ -16,7 +16,7 @@ Figur 38 Skog
 
 ### Du kan behöva söka spridningstillstånd
 
-Om du trots allt ska sprida eller publicera material du filmat eller fotograferat under en flygning, exempelvis i sociala medier, på hemsidor eller liknande, kan du behöva ett **spridningstillstånd** utfärdat av Lantmäteriet https://www.lantmateriet.se/spridningstillstand/ eller Sjöfartsverket http://www.sjofartsverket.se/sv/Batliv/Sjokort/Copyright--nyttjanderatt/Spridningstillstand/. Om du av misstag skulle sprida material med känslig information, riskerar du straff. Bryter du mot lagen om skydd för geografisk information kan du få böter eller fängelse i upp till ett år. Tänk på att du inte kan lagra material som är konfidentiellt på molntjänster, eftersom företagen som äger dessa kan ha åtkomst till innehållet. Då klassas det som spridning.
+Om du ska sprida eller publicera material du filmat eller fotograferat under en flygning, exempelvis i sociala medier, på hemsidor eller liknande, kan du behöva ett **spridningstillstånd** utfärdat av Lantmäteriet https://www.lantmateriet.se/spridningstillstand/ eller Sjöfartsverket http://www.sjofartsverket.se/sv/Batliv/Sjokort/Copyright--nyttjanderatt/Spridningstillstand/. Om du av misstag skulle sprida material med känslig information, riskerar du straff. Bryter du mot lagen om skydd för geografisk information kan du få böter eller fängelse i upp till ett år. Tänk på att du inte kan lagra material som är konfidentiellt på molntjänster, eftersom företagen som äger dessa kan ha åtkomst till innehållet. Då klassas det som spridning.
 
 ### Vad får spridas utan tillstånd?
 
