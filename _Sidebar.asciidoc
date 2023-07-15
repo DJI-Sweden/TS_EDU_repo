@@ -21,6 +21,7 @@
 .. link:./A1A3-Kapitel-2.1[2.2 - U-space]
 .. link:./A1A3-Kapitel-2.2[2.2 - Geomedvetenhet]
 .. link:./A1A3-Kapitel-2.3[2.3 - Information om luftrummet]
+.. link:./A1A3-Kapitel-2.4[2.4 - Övning]
 ====
 
 .03 - Luftfartsregler
