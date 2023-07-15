@@ -6,7 +6,7 @@ För att flyga **C0-klassade** eller privatbyggda drönare som väger under 250 
 
 För att flyga drönare som väger **över** 250 gram krävs det däremot att fjärrpiloten fyllt 15 år, att drönaren är identifierbar och att operatören (den ansvariga) är registrerad och identifierbar.
 
-Om din drönare är **C1-klassad** får den flyga som allra snabbast i 19 meter per sekund och i huvudsak inte väga mer än 900 gram. Dock finns det ett alternativ som går ut på att din drönare kan få väga mer, så länge den inte ger ifrån sig mer än 80 joule vid en krock i högsta hastighet.
+Om din drönare är **C1-klassad** får den flyga som allra snabbast i 19 meter per sekund och inte ge ifrån sig mer än 80 joule vid en krock. **C1-klassade drönare** får väga max 899 gram så länge de inte ger ifrån sig mer än 80 joule vid en krock i högsta hastighet. Exempelvis får en drönare som väger 899 gram flyga i max 13.3 m/s för att inte ge ifrån sig mer än 80 joule vid en krock
 
 Det går att räkna ut hur många joule din drönare ger ifrån sig med hjälp av en så kallad kinetisk energiräknare som du lätt hittar på nätet. Genom att skriva in hur mycket din drönare väger och hur snabbt den får flyga får du svar på hur mycket joule den ger ifrån sig. Här ser du formeln för en sådan uträkning:
 
@@ -21,7 +21,7 @@ Det är viktigt att poängtera att du som fjärrpilot ska inte flyga i områden 
 ### Det här gäller för C1-klassade drönare
 
 * Får inte flyga snabbare än 19 meter per sekund.
-* Får väga max 900 gram eller ge ifrån sig mindre än 80 joule vid kollision.
+* Får väga max 899 gram eller ge ifrån sig mindre än 80 joule vid kollision.
 * Får inte medvetet flygas över icke-medverkande. Om så ändå sker ska drönaren skyndsamt flygas undan.
 
 ![Figur 4 Så här ser märkningen ut på en C1-drönare](./A1A3_SE-sv/Figur_004.png)  
