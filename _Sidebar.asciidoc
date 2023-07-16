@@ -100,3 +100,35 @@
 . link:./A1A3-Kapitel-9.0[Kapitel 9 - Flygtrafikbrott]
 .. link:./A1A3-Kapitel-9.1[9.1 - Transportstyrelsen]
 ====
+
+.10 - Meteorologi
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A2-Kapitel-10.0[Kapitel 10 - Meteorologi]
+.. link:./A2-Kapitel-10.1[10.1 - Om det blåser]
+.. link:./A2-Kapitel-10.2[10.2 - Nederbörd och åska]
+.. link:./A2-Kapitel-10.3[10.3 - Låg temperatur]
+.. link:./A2-Kapitel-10.4[10.4 - Luftdensitet]
+.. link:./A2-Kapitel-10.5[10.5 - Turbulens]
+.. link:./A2-Kapitel-10.6[10.6 - Väderprognoser]
+====
+
+.11 - Mer Flygning
+[%collapsible]
+====
+[decimal,start=1]
+. link:./A2-Kapitel-11.0[Kapitel 11 - Mer Flygning]
+.. link:./A2-Kapitel-11.1[11.1 - Så fungerar drönaren]
+.. link:./A2-Kapitel-11.2[11.2 - Flyga med last]
+.. link:./A2-Kapitel-11.3[11.3 - Batterifunktion]
+====
+
+.12 - Riskhantering
+[%collapsible]
+====
+[decimal,start=1]
+.. link:./A2-Kapitel-12.1[12.1 - Låghastighetsläge]
+.. link:./A2-Kapitel-12.2[12.2 - Flyga nära mäniskor]
+.. link:./A2-Kapitel-12.3[12.3 - 1:1-regeln]
+====
