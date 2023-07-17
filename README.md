@@ -1,11 +1,11 @@
-# DJI Sweden - Wiki
+# DJI Sweden - Transportstyrelsens Drönarutbilding som Wiki
 
 ## 1. Beskrivning
 
-Detta är innehållet för DJI Sweden Wiki. 
+Detta är materialet från Trasportstyrelsen Drönarutbildning i Markdown-format.
 
 Uppdateringar görs här för att kunna använda den versionshantering som tillhandahålls med Git.  
-Eftersom Wikis på GitHub inte presenteras som ett vanligt repo används denna "sido-klon" för att ändringar ska gå att hantera innan de publiceras till DJI Sweden Wiki på riktigt. 
+Eftersom Wikis på GitHub inte presenteras som ett vanligt repo används denna "sido-klon" för att ändringar ska gå att hantera innan de publiceras till `TS_EDU` Wiki:n på riktigt. 
 
 ## 2. Krav för användning
 
@@ -22,13 +22,17 @@ Tillval:
 
 ## 3. Användning/Hur gör jag
 
-Först måste du förstå konceptet med `Arbestytor` (Brancher) och `Sparad Status` (Commits) i Git.
+Materialet här är ursprungligen utfärdat av Transportstyrelsen och det publicerade innehållet i Wikin kommer alltid vara det som Transportstyrelsen publicerat.
+
+Om du vill göra förslag till ändring eller förbättring kan du göra det här och meddela Transportstyrelsen om dit förslag.
+
+Först måste du förstå konceptet med `Arbestytor` (Brancher) och `Sparad Status` (Commits) i Git så du vet hur och var du ska lägga ditt förslag.
 
 * [Kort intro till Git](./000-Arbeta-med-GitHub/Kort_intro_till_git.md)
 
-### 3.1 Gör din ändring
+### 3.1 Föreslå din ändring
 
-Som med allt annat finns det flera sätt att få en sak att fungera. Nedan presenteras ett par möjligheter varav den första görs direkt på GitHub.
+Som med allt annat finns det flera sätt att göra en sak. Nedan presenteras ett par möjligheter varav den första görs direkt på GitHub.
 
 För små ändringar räcker oftast `GitHub WebEditor`. 
 
@@ -46,9 +50,9 @@ När du är klar med ditt arbete i din arbetsyta och synkat upp den så behöver
 
 Då begär du en s.k. [Pull Request i GitHub](./000-Arbeta-med-GitHub/Gör-en-Pull-Request.md).
 
-### 3.3 Synkning till DJI Sweden Wiki
+### 3.3 Synkning till TS_EDU Wiki
 
-Ingen publicering kommer att synas i Wiki:n förrän ansvarig för DJI Sweden Wiki synkar detta repo med det som används av Wikin på GitHub.
+Ingen publicering kommer att synas i Wiki:n förrän ansvarig på Transportstyrelsen  gjort en ny publicering. Detta sker normalt årligen i januari.
 
 Detta steg kommer att automatiseras i framtiden.
 
